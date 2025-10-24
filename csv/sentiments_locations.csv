@@ -1,44 +1,61 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Taiwan,Taiwan,LOC,0.14999999999999997,0.0,de,14
+Taiwan,Taiwan,LOC,0.12352941176470586,0.0,de,17
 Philippinen,Philippinen,LOC,0.05384615384615384,0.0,de,13
+Deutschland,Deutschland,LOC,-0.3,0.0,de,8
 Paris,Paris,LOC,0.0,0.0,de,7
 Asien,Asien,LOC,-0.025000000000000005,0.0,de,6
 China,China,LOC,-0.2333333333333333,0.0,de,6
+Vietnam,Vietnam,LOC,0.0,0.0,de,4
 Flughafen Hongkong,Flughafen Hongkong,LOC,-0.2333333333333333,0.0,de,3
 Hongkong,Hongkong,LOC,-0.2333333333333333,0.0,de,3
+Sturmtief Joshua,Sturmtief Joshua,LOC,-0.7,0.0,de,2
 Ermont,Ermont,LOC,0.0,0.0,de,2
-Deutschland,Deutschland,LOC,0.0,0.0,de,2
 Europa,Europa,LOC,0.0,0.0,de,2
-Mount Everest,Mount Everest,LOC,-0.35,0.0,de,2
 …,…,LOC,0.0,0.0,de,2
+Böen,Böen,LOC,-0.35,0.0,de,2
+Bualoi,Bualoi,LOC,0.0,0.0,de,2
+Mount Everest,Mount Everest,LOC,-0.35,0.0,de,2
 Ragasa,Ragasa,LOC,0.0,0.0,de,2
-Monstersturm,Monstersturm,LOC,0.0,0.0,de,2
 Behördenangaben,Behördenangaben,LOC,-0.5,0.0,de,2
-Bicol,Bicol,LOC,0.7,0.0,de,1
-Ibiza,Ibiza,LOC,0.0,0.0,de,1
-Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,1
-d…,d…,LOC,0.0,0.0,de,1
-Lebensgefahr,Lebensgefahr,LOC,0.0,0.0,de,1
-Murcia,Murcia,LOC,0.0,0.0,de,1
-Alicante,Alicante,LOC,0.0,0.0,de,1
-Valencia,Valencia,LOC,0.0,0.0,de,1
-Spaniens,Spaniens,LOC,0.0,0.0,de,1
-Tief Alice,Tief Alice,LOC,0.0,0.0,de,1
-Mittelmeer,Mittelmeer,LOC,0.0,0.0,de,1
-Tornados,Tornados,LOC,-1.0,0.0,de,1
-Mallorca,Mallorca,LOC,0.0,0.0,de,1
-Ibizia,Ibizia,LOC,0.0,0.0,de,1
-Südostasien,Südostasien,LOC,0.0,0.0,de,1
-Tropensturm,Tropensturm,LOC,0.0,0.0,de,1
-Tibet,Tibet,LOC,0.0,0.0,de,1
-Lhasa,Lhasa,LOC,0.0,0.0,de,1
-chinesische Küste,chinesische Küste,LOC,-0.7,0.0,de,1
-Super-Taifun,Super-Taifun,LOC,0.0,0.0,de,1
-Böen,Böen,LOC,0.0,0.0,de,1
-Samar,Samar,LOC,0.0,0.0,de,1
-Taifun-Stärke,Taifun-Stärke,LOC,0.0,0.0,de,1
-Bualoi,Bualoi,LOC,0.0,0.0,de,1
-Häfen,Häfen,LOC,0.0,1.0,de,1
-Vietnam,Vietnam,LOC,0.0,0.0,de,1
+Monstersturm,Monstersturm,LOC,0.0,0.0,de,2
 Warnungen,Warnungen,LOC,0.0,0.0,de,1
+Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,1
+Valencia,Valencia,LOC,0.0,0.0,de,1
+Alicante,Alicante,LOC,0.0,0.0,de,1
+Murcia,Murcia,LOC,0.0,0.0,de,1
+Tropensturm,Tropensturm,LOC,0.0,0.0,de,1
+Lebensgefahr,Lebensgefahr,LOC,0.0,0.0,de,1
+d…,d…,LOC,0.0,0.0,de,1
 Ermont…,Ermont…,LOC,0.0,0.0,de,1
+Tief Alice,Tief Alice,LOC,0.0,0.0,de,1
+Herbststurm,Herbststurm,LOC,-1.0,0.0,de,1
+Sturmtief «Joshua,Sturmtief «Joshua,LOC,0.0,0.0,de,1
+Bundesstraßen,Bundesstraßen,LOC,0.0,0.0,de,1
+Baden-Baden,Baden-Baden,LOC,-1.0,0.0,de,1
+B500,B500,LOC,-1.0,0.0,de,1
+Autobahn 5,Autobahn 5,LOC,-1.0,0.0,de,1
+Glasgow,Glasgow,LOC,0.0,0.0,de,1
+Sturm Graz,Sturm Graz,LOC,0.0,0.0,de,1
+Spaniens,Spaniens,LOC,0.0,0.0,de,1
+Mittelmeer,Mittelmeer,LOC,0.0,0.0,de,1
+Südostasien,Südostasien,LOC,0.0,0.0,de,1
+Baden-Württemberg,Baden-Württemberg,LOC,0.0,1.0,de,1
+Häfen,Häfen,LOC,0.0,1.0,de,1
+Bicol,Bicol,LOC,0.7,0.0,de,1
+Taifun-Stärke,Taifun-Stärke,LOC,0.0,0.0,de,1
+Samar,Samar,LOC,0.0,0.0,de,1
+Super-Taifun,Super-Taifun,LOC,0.0,0.0,de,1
+chinesische Küste,chinesische Küste,LOC,-0.7,0.0,de,1
+Westpfalz,Westpfalz,LOC,0.0,0.0,de,1
+Regen,Regen,LOC,-1.0,0.0,de,1
+Südschwarzwald,Südschwarzwald,LOC,0.0,0.0,de,1
+Tornados,Tornados,LOC,-1.0,0.0,de,1
+Sturm China,Sturm China,LOC,0.0,0.0,de,1
+Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,1
+aufgestauter See,aufgestauter See,LOC,0.0,0.0,de,1
+Lhasa,Lhasa,LOC,0.0,0.0,de,1
+Tibet,Tibet,LOC,0.0,0.0,de,1
+Ibizia,Ibizia,LOC,0.0,0.0,de,1
+Ibiza,Ibiza,LOC,0.0,0.0,de,1
+Mallorca,Mallorca,LOC,0.0,0.0,de,1
+Schottlands,Schottlands,LOC,0.7,0.0,de,1

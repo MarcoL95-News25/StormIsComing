@@ -1,21 +1,41 @@
 ,phrase,label,sentiment,subjectivity,language,count
+“,“,MISC,,,de,8
 Super-Taifun,Super-Taifun,MISC,0.0,0.0,de,6
+Sturm der Liebe,Sturm der Liebe,MISC,,,de,6
 französischen,französischen,MISC,,,de,3
-Tornado,Tornado,MISC,,,de,2
-Ryder Cup,Ryder Cup,MISC,,,de,2
 "Link
 ","Link
-",MISC,,,de,2
-europäischen Teams,europäischen Teams,MISC,,,de,1
+",MISC,,,de,3
+Ryder Cup,Ryder Cup,MISC,,,de,2
+ARD-Telenovela,ARD-Telenovela,MISC,,,de,2
+Sturm und Regen,Sturm und Regen,MISC,,,de,2
+Tornado,Tornado,MISC,,,de,2
+…,…,MISC,0.0,0.0,de,2
+Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1
+Herbststurm“,Herbststurm“,MISC,,,de,1
+Die Sturm-Spieler,Die Sturm-Spieler,MISC,,,de,1
+schottischen,schottischen,MISC,,,de,1
+Europa League,Europa League,MISC,,,de,1
+Sturm spitzt,Sturm spitzt,MISC,,,de,1
+Das zerreißt mir das Herz“,Das zerreißt mir das Herz“,MISC,,,de,1
+Sturm der Liebe“,Sturm der Liebe“,MISC,,,de,1
+Tempo 200,Tempo 200,MISC,,,de,1
+Fernsehen“,Fernsehen“,MISC,,,de,1
+Das zerreißt mir das Herz,Das zerreißt mir das Herz,MISC,,,de,1
+Tote und Vermisste,Tote und Vermisste,MISC,,,de,1
+Regen“,Regen“,MISC,,,de,1
+Sturm,Sturm,MISC,,,de,1
+Wirbelsturm üb...,Wirbelsturm üb...,MISC,,,de,1
+Bualoi“,Bualoi“,MISC,,,de,1
 Mini-Tornado“,Mini-Tornado“,MISC,,,de,1
 Video,Video,MISC,,,de,1
+Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1
 Alice“,Alice“,MISC,,,de,1
 chinesischen,chinesischen,MISC,,,de,1
-“,“,MISC,,,de,1
-Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1
-Bualoi“,Bualoi“,MISC,,,de,1
+Fährausfälle“,Fährausfälle“,MISC,,,de,1
+Wetter“,Wetter“,MISC,,,de,1
+Sturm und Regen“,Sturm und Regen“,MISC,,,de,1
 philippinischen,philippinischen,MISC,,,de,1
-Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1
-…,…,MISC,0.0,0.0,de,1
-Tempo 200,Tempo 200,MISC,,,de,1
-Wirbelsturm üb...,Wirbelsturm üb...,MISC,,,de,1
+Zahl der Toten,Zahl der Toten,MISC,,,de,1
+europäischen Teams,europäischen Teams,MISC,,,de,1
+Champions Leag…,Champions Leag…,MISC,,,de,1

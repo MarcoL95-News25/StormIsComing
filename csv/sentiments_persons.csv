@@ -1,2 +1,4 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Erich Altenkopf,Erich Altenkopf,PER,0.13999999999999999,0.0,de,5
+"Sturm ""Bualoi","Sturm ""Bualoi",PER,0.0,0.0,de,2
 Luke Donald,Luke Donald,PER,1.0,0.0,de,1

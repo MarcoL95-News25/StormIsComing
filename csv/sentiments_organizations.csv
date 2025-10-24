@@ -1,9 +1,17 @@
 ,phrase,label,sentiment,subjectivity,language,count
+ARD-Telenovela,ARD-Telenovela,ORG,-0.2333333333333333,0.0,de,3
 Nato,Nato,ORG,0.0,0.0,de,2
 Pagas…,Pagas…,ORG,0.0,0.0,de,1
 Team Europa,Team Europa,ORG,0.0,0.0,de,1
 USA,USA,ORG,0.0,0.0,de,1
 Black …,Black …,ORG,0.0,0.0,de,1
+U…,U…,ORG,0.0,0.0,de,1
 Bundeswehr,Bundeswehr,ORG,0.0,0.0,de,1
 Nato-Manöver,Nato-Manöver,ORG,0.0,0.0,de,1
 deutsche L…,deutsche L…,ORG,0.0,0.0,de,1
+Wet…,Wet…,ORG,0.0,0.0,de,1
+München,München,ORG,0.7,0.0,de,1
+los!,los!,ORG,0.0,0.0,de,1
+Rangers,Rangers,ORG,0.0,0.0,de,1
+Rangers-Erzrivalen Celtic,Rangers-Erzrivalen Celtic,ORG,0.7,0.0,de,1
+Celtic,Celtic,ORG,0.0,0.0,de,1
