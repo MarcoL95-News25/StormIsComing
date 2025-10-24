@@ -1,11 +1,22 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Taiwan,Taiwan,LOC,0.14999999999999997,0.0,de,14
+Philippinen,Philippinen,LOC,0.05384615384615384,0.0,de,13
 Paris,Paris,LOC,0.0,0.0,de,7
-Europa,Europa,LOC,0.0,0.0,de,2
-Deutschland,Deutschland,LOC,0.0,0.0,de,2
+Asien,Asien,LOC,-0.025000000000000005,0.0,de,6
+China,China,LOC,-0.2333333333333333,0.0,de,6
+Flughafen Hongkong,Flughafen Hongkong,LOC,-0.2333333333333333,0.0,de,3
+Hongkong,Hongkong,LOC,-0.2333333333333333,0.0,de,3
 Ermont,Ermont,LOC,0.0,0.0,de,2
+Deutschland,Deutschland,LOC,0.0,0.0,de,2
+Europa,Europa,LOC,0.0,0.0,de,2
+Mount Everest,Mount Everest,LOC,-0.35,0.0,de,2
+…,…,LOC,0.0,0.0,de,2
+Ragasa,Ragasa,LOC,0.0,0.0,de,2
+Monstersturm,Monstersturm,LOC,0.0,0.0,de,2
+Behördenangaben,Behördenangaben,LOC,-0.5,0.0,de,2
+Bicol,Bicol,LOC,0.7,0.0,de,1
+Ibiza,Ibiza,LOC,0.0,0.0,de,1
 Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,1
-…,…,LOC,0.0,0.0,de,1
-Behördenangaben,Behördenangaben,LOC,-1.0,0.0,de,1
 d…,d…,LOC,0.0,0.0,de,1
 Lebensgefahr,Lebensgefahr,LOC,0.0,0.0,de,1
 Murcia,Murcia,LOC,0.0,0.0,de,1
@@ -16,6 +27,18 @@ Tief Alice,Tief Alice,LOC,0.0,0.0,de,1
 Mittelmeer,Mittelmeer,LOC,0.0,0.0,de,1
 Tornados,Tornados,LOC,-1.0,0.0,de,1
 Mallorca,Mallorca,LOC,0.0,0.0,de,1
-Ibiza,Ibiza,LOC,0.0,0.0,de,1
 Ibizia,Ibizia,LOC,0.0,0.0,de,1
+Südostasien,Südostasien,LOC,0.0,0.0,de,1
+Tropensturm,Tropensturm,LOC,0.0,0.0,de,1
+Tibet,Tibet,LOC,0.0,0.0,de,1
+Lhasa,Lhasa,LOC,0.0,0.0,de,1
+chinesische Küste,chinesische Küste,LOC,-0.7,0.0,de,1
+Super-Taifun,Super-Taifun,LOC,0.0,0.0,de,1
+Böen,Böen,LOC,0.0,0.0,de,1
+Samar,Samar,LOC,0.0,0.0,de,1
+Taifun-Stärke,Taifun-Stärke,LOC,0.0,0.0,de,1
+Bualoi,Bualoi,LOC,0.0,0.0,de,1
+Häfen,Häfen,LOC,0.0,1.0,de,1
+Vietnam,Vietnam,LOC,0.0,0.0,de,1
+Warnungen,Warnungen,LOC,0.0,0.0,de,1
 Ermont…,Ermont…,LOC,0.0,0.0,de,1
