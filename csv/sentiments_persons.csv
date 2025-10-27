@@ -1,4 +1,18 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Erich Altenkopf,Erich Altenkopf,PER,0.13999999999999999,0.0,de,5
+Björn Alexander,Björn Alexander,PER,-0.7,0.0,de,2
+Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,2
+Sturmtief „Joshua,Sturmtief „Joshua,PER,-0.85,0.0,de,2
+"Sturmtief ""Joshua","Sturmtief ""Joshua",PER,0.0,0.0,de,2
 "Sturm ""Bualoi","Sturm ""Bualoi",PER,0.0,0.0,de,2
+Cody Rhodes,Cody Rhodes,PER,1.0,0.0,de,1
+Seth Rollins,Seth Rollins,PER,1.0,0.0,de,1
+Rhea Ripley,Rhea Ripley,PER,1.0,0.0,de,1
+Kelly Family,Kelly Family,PER,0.0,0.0,de,1
+"Orkantief ""Detlef","Orkantief ""Detlef",PER,0.0,0.0,de,1
+tornado-artige Wirbel,tornado-artige Wirbel,PER,0.0,0.0,de,1
 Luke Donald,Luke Donald,PER,1.0,0.0,de,1
+Sturm «Bualoi,Sturm «Bualoi,PER,0.7,0.0,de,1
+Sturmtief Joshua,Sturmtief Joshua,PER,-0.7,0.0,de,1
+Umgestürzte Bäume,Umgestürzte Bäume,PER,0.0,0.0,de,1
+Patricia Kelly,Patricia Kelly,PER,0.0,0.0,de,1

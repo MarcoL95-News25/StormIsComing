@@ -1,61 +1,107 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Deutschland,Deutschland,LOC,-0.0857142857142857,0.0,de,21
+Philippinen,Philippinen,LOC,0.07777777777777778,0.0,de,18
 Taiwan,Taiwan,LOC,0.12352941176470586,0.0,de,17
-Philippinen,Philippinen,LOC,0.05384615384615384,0.0,de,13
-Deutschland,Deutschland,LOC,-0.3,0.0,de,8
 Paris,Paris,LOC,0.0,0.0,de,7
 Asien,Asien,LOC,-0.025000000000000005,0.0,de,6
+Vietnam,Vietnam,LOC,0.0,0.0,de,6
+Bualoi,Bualoi,LOC,0.0,0.0,de,6
+Feldberg,Feldberg,LOC,-0.05833333333333333,0.4166666666666667,de,6
 China,China,LOC,-0.2333333333333333,0.0,de,6
-Vietnam,Vietnam,LOC,0.0,0.0,de,4
+Böen,Böen,LOC,-0.13999999999999999,0.0,de,5
+Baden-Württemberg,Baden-Württemberg,LOC,-0.11666666666666665,0.8333333333333333,de,4
+Perth/Australien,Perth/Australien,LOC,0.0,1.0,de,3
+…,…,LOC,0.3333333333333333,0.0,de,3
+Schneefallgrenze,Schneefallgrenze,LOC,0.0,0.0,de,3
 Flughafen Hongkong,Flughafen Hongkong,LOC,-0.2333333333333333,0.0,de,3
 Hongkong,Hongkong,LOC,-0.2333333333333333,0.0,de,3
-Sturmtief Joshua,Sturmtief Joshua,LOC,-0.7,0.0,de,2
-Ermont,Ermont,LOC,0.0,0.0,de,2
-Europa,Europa,LOC,0.0,0.0,de,2
-…,…,LOC,0.0,0.0,de,2
-Böen,Böen,LOC,-0.35,0.0,de,2
-Bualoi,Bualoi,LOC,0.0,0.0,de,2
-Mount Everest,Mount Everest,LOC,-0.35,0.0,de,2
-Ragasa,Ragasa,LOC,0.0,0.0,de,2
-Behördenangaben,Behördenangaben,LOC,-0.5,0.0,de,2
+Europa,Europa,LOC,-0.05000000000000001,0.0,de,3
+Samar,Samar,LOC,0.0,0.0,de,2
 Monstersturm,Monstersturm,LOC,0.0,0.0,de,2
-Warnungen,Warnungen,LOC,0.0,0.0,de,1
-Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,1
-Valencia,Valencia,LOC,0.0,0.0,de,1
-Alicante,Alicante,LOC,0.0,0.0,de,1
+Sturmböen,Sturmböen,LOC,0.0,0.0,de,2
+Häfen,Häfen,LOC,-0.175,0.75,de,2
+Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,2
+Sturmtief Joshua,Sturmtief Joshua,LOC,-0.7,0.0,de,2
+Mount Everest,Mount Everest,LOC,-0.35,0.0,de,2
+Behördenangaben,Behördenangaben,LOC,-0.5,0.0,de,2
+Ermont,Ermont,LOC,0.0,0.0,de,2
+Ragasa,Ragasa,LOC,0.0,0.0,de,2
 Murcia,Murcia,LOC,0.0,0.0,de,1
-Tropensturm,Tropensturm,LOC,0.0,0.0,de,1
 Lebensgefahr,Lebensgefahr,LOC,0.0,0.0,de,1
 d…,d…,LOC,0.0,0.0,de,1
-Ermont…,Ermont…,LOC,0.0,0.0,de,1
-Tief Alice,Tief Alice,LOC,0.0,0.0,de,1
-Herbststurm,Herbststurm,LOC,-1.0,0.0,de,1
-Sturmtief «Joshua,Sturmtief «Joshua,LOC,0.0,0.0,de,1
-Bundesstraßen,Bundesstraßen,LOC,0.0,0.0,de,1
-Baden-Baden,Baden-Baden,LOC,-1.0,0.0,de,1
-B500,B500,LOC,-1.0,0.0,de,1
-Autobahn 5,Autobahn 5,LOC,-1.0,0.0,de,1
-Glasgow,Glasgow,LOC,0.0,0.0,de,1
-Sturm Graz,Sturm Graz,LOC,0.0,0.0,de,1
+Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,1
+Anmarsch,Anmarsch,LOC,0.0,0.0,de,1
+Alicante,Alicante,LOC,0.0,0.0,de,1
+Valencia,Valencia,LOC,0.0,0.0,de,1
 Spaniens,Spaniens,LOC,0.0,0.0,de,1
+Tief Alice,Tief Alice,LOC,0.0,0.0,de,1
 Mittelmeer,Mittelmeer,LOC,0.0,0.0,de,1
-Südostasien,Südostasien,LOC,0.0,0.0,de,1
-Baden-Württemberg,Baden-Württemberg,LOC,0.0,1.0,de,1
-Häfen,Häfen,LOC,0.0,1.0,de,1
-Bicol,Bicol,LOC,0.7,0.0,de,1
-Taifun-Stärke,Taifun-Stärke,LOC,0.0,0.0,de,1
-Samar,Samar,LOC,0.0,0.0,de,1
-Super-Taifun,Super-Taifun,LOC,0.0,0.0,de,1
-chinesische Küste,chinesische Küste,LOC,-0.7,0.0,de,1
-Westpfalz,Westpfalz,LOC,0.0,0.0,de,1
-Regen,Regen,LOC,-1.0,0.0,de,1
-Südschwarzwald,Südschwarzwald,LOC,0.0,0.0,de,1
 Tornados,Tornados,LOC,-1.0,0.0,de,1
-Sturm China,Sturm China,LOC,0.0,0.0,de,1
-Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,1
-aufgestauter See,aufgestauter See,LOC,0.0,0.0,de,1
-Lhasa,Lhasa,LOC,0.0,0.0,de,1
-Tibet,Tibet,LOC,0.0,0.0,de,1
-Ibizia,Ibizia,LOC,0.0,0.0,de,1
-Ibiza,Ibiza,LOC,0.0,0.0,de,1
 Mallorca,Mallorca,LOC,0.0,0.0,de,1
+Ibiza,Ibiza,LOC,0.0,0.0,de,1
+Ermont…,Ermont…,LOC,0.0,0.0,de,1
+Regenschauer,Regenschauer,LOC,0.0,0.0,de,1
+Flut,Flut,LOC,0.0,0.0,de,1
+B500,B500,LOC,-1.0,0.0,de,1
+Nordsee,Nordsee,LOC,-1.0,0.0,de,1
+Wilhelmshaven,Wilhelmshaven,LOC,-1.0,0.0,de,1
+Bäume,Bäume,LOC,-1.0,0.0,de,1
+Auswirkungen,Auswirkungen,LOC,0.0,0.0,de,1
 Schottlands,Schottlands,LOC,0.7,0.0,de,1
+Sturm Graz,Sturm Graz,LOC,0.0,0.0,de,1
+Glasgow,Glasgow,LOC,0.0,0.0,de,1
+Autobahn 5,Autobahn 5,LOC,-1.0,0.0,de,1
+Baden-Baden,Baden-Baden,LOC,-1.0,0.0,de,1
+Sturmböen…,Sturmböen…,LOC,0.0,0.0,de,1
+Bundesstraßen,Bundesstraßen,LOC,0.0,0.0,de,1
+Schwarzwalde…,Schwarzwalde…,LOC,0.0,0.0,de,1
+Sturmtief «Joshua,Sturmtief «Joshua,LOC,0.0,0.0,de,1
+Herbststurm,Herbststurm,LOC,-1.0,0.0,de,1
+Offenbach,Offenbach,LOC,0.0,0.0,de,1
+Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,-1.0,0.0,de,1
+Herbststürme,Herbststürme,LOC,0.0,0.0,de,1
+Wetterdienst,Wetterdienst,LOC,0.0,0.0,de,1
+Ibizia,Ibizia,LOC,0.0,0.0,de,1
+Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1
+Raumschiffen,Raumschiffen,LOC,0.0,0.0,de,1
+Band-Geheimnis,Band-Geheimnis,LOC,0.0,0.0,de,1
+North Carolina,North Carolina,LOC,0.0,0.0,de,1
+Tornado-Wellen,Tornado-Wellen,LOC,0.0,0.0,de,1
+Brasilien,Brasilien,LOC,0.0,0.0,de,1
+Taifun-Stärke,Taifun-Stärke,LOC,0.0,0.0,de,1
+Warnungen,Warnungen,LOC,0.0,0.0,de,1
+Sean OKelley,Sean OKelley,LOC,0.0,0.0,de,1
+Amsterdam,Amsterdam,LOC,0.0,0.0,de,1
+Kelly Family,Kelly Family,LOC,0.0,0.0,de,1
+Südostasien,Südostasien,LOC,0.0,0.0,de,1
+Sonnenwinden,Sonnenwinden,LOC,0.0,0.0,de,1
+Bicol,Bicol,LOC,0.7,0.0,de,1
+Super-Taifun,Super-Taifun,LOC,0.0,0.0,de,1
+Essener,Essener,LOC,0.0,0.0,de,1
+Essen,Essen,LOC,0.0,0.0,de,1
+chinesische Küste,chinesische Küste,LOC,-0.7,0.0,de,1
+Sturm China,Sturm China,LOC,0.0,0.0,de,1
+aufgestauter See,aufgestauter See,LOC,0.0,0.0,de,1
+Tropensturm,Tropensturm,LOC,0.0,0.0,de,1
+stürmisch,stürmisch,LOC,0.0,0.0,de,1
+Leipzig,Leipzig,LOC,0.0,0.0,de,1
+sn,sn,LOC,0.0,0.0,de,1
+Sachsen,Sachsen,LOC,0.0,0.0,de,1
+Raumschiffflotte,Raumschiffflotte,LOC,-1.0,0.0,de,1
+Plasma-Tornados,Plasma-Tornados,LOC,-1.0,0.0,de,1
+Erde,Erde,LOC,0.7,0.0,de,1
+Tibet,Tibet,LOC,0.0,0.0,de,1
+Lhasa,Lhasa,LOC,0.0,0.0,de,1
+Brocken,Brocken,LOC,0.0,0.0,de,1
+Nebel,Nebel,LOC,0.0,0.0,de,1
+Landes,Landes,LOC,0.0,0.0,de,1
+Bayern,Bayern,LOC,0.0,0.0,de,1
+Nordseeinseln,Nordseeinseln,LOC,0.0,0.0,de,1
+Harz,Harz,LOC,0.0,0.0,de,1
+Südschwarzwald,Südschwarzwald,LOC,0.0,0.0,de,1
+Regen,Regen,LOC,-1.0,0.0,de,1
+Westpfalz,Westpfalz,LOC,0.0,0.0,de,1
+Nordmeer,Nordmeer,LOC,-0.2333333333333333,0.6666666666666666,de,1
+lsw,lsw,LOC,-0.2333333333333333,0.6666666666666666,de,1
+Stuttgart,Stuttgart,LOC,-0.2333333333333333,0.6666666666666666,de,1
+Äste,Äste,LOC,0.0,0.0,de,1
