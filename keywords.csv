@@ -6,5 +6,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.3070624999999999
 'Warnsystem Tornado',de,Mitigation,#48a82d,#3fd914,1,0.3070624999999999
 'Sturm Vorhersage',de,Mitigation,#48a82d,#3fd914,2,0.3024317793613068
-'Tornado',de,Hazard,#fc0307,#c72426,1,0.0539544663937908
+'Tornado',de,Hazard,#fc0307,#c72426,2,0.05021173143472218
 'Sturm Windstärke',de,Hazard,#fc0307,#c72426,2,0.0452692587727272
