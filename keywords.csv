@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmtag',de,Hazard,#ec0827,#c72426,2,0.52692587727272
 'Sturm Bäume',de,Impacts,#fc8505,#cf7c23,3,0.4292735206136364
 'Sturm Tote',de,Impacts,#fc8505,#cf7c23,2,0.3862471966297077
-'Orkan',de,Hazard,#fc0307,#c72426,2,0.3731342955083332
+'Orkan',de,Hazard,#fc0307,#c72426,1,0.3171645561820832
 'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.3070624999999999
 'Warnsystem Tornado',de,Mitigation,#48a82d,#3fd914,1,0.3070624999999999
 'Sturm Vorhersage',de,Mitigation,#48a82d,#3fd914,2,0.3024317793613068
