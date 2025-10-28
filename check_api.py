@@ -716,10 +716,10 @@ def checkGithubOrganization(results=[]):
       else:
         results.append(":white_check_mark: Github Organization exists") 
         orgAssigned = False
-        myOrgs = inqUrl('https://api.github.com/users/KMicha/orgs')
-        print(myOrgs) 
+        myOrgs = inqUrl('https://api.github.com/users/KMicha/orgs?per_page=100')
+        #print(myOrgs) 
         for org in myOrgs:
-          print(org)
+          #print(org)
           if(org['id']==orgData['id']):
             orgAssigned = True
         if(orgAssigned):
