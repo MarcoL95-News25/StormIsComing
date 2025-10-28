@@ -719,7 +719,6 @@ def checkGithubOrganization(results=[]):
         myOrgs = inqUrl('https://api.github.com/users/KMicha/orgs?per_page=100')
         #print(myOrgs) 
         for org in myOrgs:
-          #print(org)
           if(org['id']==orgData['id']):
             orgAssigned = True
         if(orgAssigned):
