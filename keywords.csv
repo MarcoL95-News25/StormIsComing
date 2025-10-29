@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmtag',de,Hazard,#ec0827,#c72426,1,0.447886995681812
-'Sturm Tote',de,Impacts,#fc8505,#cf7c23,2,0.3862471966297077
+'Sturm Tote',de,Impacts,#fc8505,#cf7c23,2,0.3629940804685849
 'Sturm Bäume',de,Impacts,#fc8505,#cf7c23,3,0.3484013304842613
 'Orkan',de,Hazard,#fc0307,#c72426,1,0.3171645561820832
 'Warnsystem Tornado',de,Mitigation,#48a82d,#3fd914,1,0.3070624999999999
