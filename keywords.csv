@@ -8,4 +8,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.2218526562499999
 'Sturm Erwärmung',de,Causes,#2326cf,#242573,1,0.2134850187457702
 'Tornado',de,Hazard,#fc0307,#c72426,2,0.0473304367195137
-'Sturm Windstärke',de,Hazard,#fc0307,#c72426,2,0.0452692587727272
+'Sturm Windstärke',de,Hazard,#fc0307,#c72426,1,0.038479049956818126
