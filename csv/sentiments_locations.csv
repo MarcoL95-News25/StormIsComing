@@ -1,80 +1,130 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutschland,Deutschland,LOC,-0.0857142857142857,0.0,de,21
-Philippinen,Philippinen,LOC,0.07777777777777778,0.0,de,18
+Deutschland,Deutschland,LOC,-0.1870967741935484,0.03225806451612903,de,31
+Philippinen,Philippinen,LOC,0.02692307692307692,0.0,de,26
+Jamaika,Jamaika,LOC,-0.3075,0.025,de,20
 Taiwan,Taiwan,LOC,0.12352941176470586,0.0,de,17
+Vietnam,Vietnam,LOC,-0.04666666666666666,0.0,de,15
+Kuba,Kuba,LOC,-0.27,0.0,de,10
 Paris,Paris,LOC,0.0,0.0,de,7
-Asien,Asien,LOC,-0.025000000000000005,0.0,de,6
-Vietnam,Vietnam,LOC,0.0,0.0,de,6
+Karibik,Karibik,LOC,-0.3071428571428571,0.14285714285714285,de,7
+Bäume,Bäume,LOC,-0.6714285714285715,0.0,de,7
+Notunterkünften,Notunterkünften,LOC,0.0,0.0,de,6
+Böen,Böen,LOC,-0.09166666666666666,0.0,de,6
 Bualoi,Bualoi,LOC,0.0,0.0,de,6
+Karibikinsel,Karibikinsel,LOC,-0.11666666666666665,0.0,de,6
+Asien,Asien,LOC,-0.025000000000000005,0.0,de,6
 Feldberg,Feldberg,LOC,-0.05833333333333333,0.4166666666666667,de,6
 China,China,LOC,-0.2333333333333333,0.0,de,6
-Böen,Böen,LOC,-0.13999999999999999,0.0,de,5
+Bahamas,Bahamas,LOC,-0.5599999999999999,0.0,de,5
+Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,5
+Südostasien,Südostasien,LOC,-0.5599999999999999,0.0,de,5
+Harz,Harz,LOC,-0.2,0.0,de,5
+Toten,Toten,LOC,-0.7,0.0,de,4
+Mount Everest,Mount Everest,LOC,-0.6,0.0,de,4
 Baden-Württemberg,Baden-Württemberg,LOC,-0.11666666666666665,0.8333333333333333,de,4
+Europa,Europa,LOC,-0.037500000000000006,0.0,de,4
+Marokko,Marokko,LOC,-0.6166666666666667,0.0,de,3
+Flughafen Hongkong,Flughafen Hongkong,LOC,-0.2333333333333333,0.0,de,3
+Bermuda,Bermuda,LOC,-0.2333333333333333,0.0,de,3
+Landes,Landes,LOC,-0.2833333333333333,0.0,de,3
+Rheinland-Pfalz,Rheinland-Pfalz,LOC,0.4666666666666666,0.0,de,3
+Sturmtief Joshua,Sturmtief Joshua,LOC,-0.4666666666666666,0.0,de,3
 Perth/Australien,Perth/Australien,LOC,0.0,1.0,de,3
+Hongkong,Hongkong,LOC,-0.2333333333333333,0.0,de,3
 …,…,LOC,0.3333333333333333,0.0,de,3
 Schneefallgrenze,Schneefallgrenze,LOC,0.0,0.0,de,3
-Flughafen Hongkong,Flughafen Hongkong,LOC,-0.2333333333333333,0.0,de,3
-Hongkong,Hongkong,LOC,-0.2333333333333333,0.0,de,3
-Europa,Europa,LOC,-0.05000000000000001,0.0,de,3
-Samar,Samar,LOC,0.0,0.0,de,2
-Monstersturm,Monstersturm,LOC,0.0,0.0,de,2
+Nordseeküste,Nordseeküste,LOC,-0.2333333333333333,0.0,de,3
+Dächer,Dächer,LOC,-0.2333333333333333,0.0,de,3
+Erde,Erde,LOC,0.2333333333333333,0.0,de,3
+Nordsee,Nordsee,LOC,-0.15000000000000002,0.0,de,2
+Ibiza,Ibiza,LOC,0.07500000000000001,0.0,de,2
 Sturmböen,Sturmböen,LOC,0.0,0.0,de,2
-Häfen,Häfen,LOC,-0.175,0.75,de,2
-Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,2
-Sturmtief Joshua,Sturmtief Joshua,LOC,-0.7,0.0,de,2
-Mount Everest,Mount Everest,LOC,-0.35,0.0,de,2
-Behördenangaben,Behördenangaben,LOC,-0.5,0.0,de,2
+Regen,Regen,LOC,-1.0,0.0,de,2
+Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.35,0.0,de,2
 Ermont,Ermont,LOC,0.0,0.0,de,2
+Schneesturm,Schneesturm,LOC,-0.7,0.0,de,2
+Saarland,Saarland,LOC,0.35,0.0,de,2
+Herbststurm,Herbststurm,LOC,-1.0,0.0,de,2
+Trab,Trab,LOC,0.0,0.0,de,2
+Beaufort-Skala,Beaufort-Skala,LOC,-0.27499999999999997,0.0,de,2
+Samar,Samar,LOC,0.0,0.0,de,2
+USA,USA,LOC,0.0,0.0,de,2
+Haiti,Haiti,LOC,0.0,0.0,de,2
 Ragasa,Ragasa,LOC,0.0,0.0,de,2
-Murcia,Murcia,LOC,0.0,0.0,de,1
-Lebensgefahr,Lebensgefahr,LOC,0.0,0.0,de,1
-d…,d…,LOC,0.0,0.0,de,1
-Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,1
-Anmarsch,Anmarsch,LOC,0.0,0.0,de,1
-Alicante,Alicante,LOC,0.0,0.0,de,1
-Valencia,Valencia,LOC,0.0,0.0,de,1
-Spaniens,Spaniens,LOC,0.0,0.0,de,1
-Tief Alice,Tief Alice,LOC,0.0,0.0,de,1
-Mittelmeer,Mittelmeer,LOC,0.0,0.0,de,1
-Tornados,Tornados,LOC,-1.0,0.0,de,1
-Mallorca,Mallorca,LOC,0.0,0.0,de,1
-Ibiza,Ibiza,LOC,0.0,0.0,de,1
-Ermont…,Ermont…,LOC,0.0,0.0,de,1
-Regenschauer,Regenschauer,LOC,0.0,0.0,de,1
-Flut,Flut,LOC,0.0,0.0,de,1
+Monstersturm,Monstersturm,LOC,0.0,0.0,de,2
+Tropensturm Bualoi,Tropensturm Bualoi,LOC,-0.7,0.0,de,2
+Häfen,Häfen,LOC,-0.175,0.75,de,2
+Behördenangaben,Behördenangaben,LOC,-0.5,0.0,de,2
+Nordatlantik,Nordatlantik,LOC,0.0,0.0,de,2
+US-Präsident,US-Präsident,LOC,0.0,0.0,de,2
+Hurrikan,Hurrikan,LOC,0.0,0.0,de,2
+Baden-Baden,Baden-Baden,LOC,-1.0,0.0,de,1
+Leipz…,Leipz…,LOC,0.0,0.0,de,1
 B500,B500,LOC,-1.0,0.0,de,1
-Nordsee,Nordsee,LOC,-1.0,0.0,de,1
-Wilhelmshaven,Wilhelmshaven,LOC,-1.0,0.0,de,1
-Bäume,Bäume,LOC,-1.0,0.0,de,1
-Auswirkungen,Auswirkungen,LOC,0.0,0.0,de,1
-Schottlands,Schottlands,LOC,0.7,0.0,de,1
-Sturm Graz,Sturm Graz,LOC,0.0,0.0,de,1
+Bundesstraßen,Bundesstraßen,LOC,0.0,0.0,de,1
+Hurrikan Melissa,Hurrikan Melissa,LOC,-0.15000000000000002,0.0,de,1
+Staaten,Staaten,LOC,-0.15000000000000002,0.0,de,1
 Glasgow,Glasgow,LOC,0.0,0.0,de,1
 Autobahn 5,Autobahn 5,LOC,-1.0,0.0,de,1
-Baden-Baden,Baden-Baden,LOC,-1.0,0.0,de,1
-Sturmböen…,Sturmböen…,LOC,0.0,0.0,de,1
-Bundesstraßen,Bundesstraßen,LOC,0.0,0.0,de,1
+Orkanböen,Orkanböen,LOC,-0.7,0.0,de,1
+"Sturmtief ""Joshua","Sturmtief ""Joshua",LOC,0.0,0.0,de,1
+Schottlands,Schottlands,LOC,0.7,0.0,de,1
 Schwarzwalde…,Schwarzwalde…,LOC,0.0,0.0,de,1
+offenen Meer,offenen Meer,LOC,-0.15000000000000002,0.0,de,1
+Atlantik,Atlantik,LOC,-0.7,0.0,de,1
+Wirbelsturm in der Karibik,Wirbelsturm in der Karibik,LOC,0.0,0.0,de,1
 Sturmtief «Joshua,Sturmtief «Joshua,LOC,0.0,0.0,de,1
-Herbststurm,Herbststurm,LOC,-1.0,0.0,de,1
+Böen…,Böen…,LOC,0.0,0.0,de,1
+Formentera,Formentera,LOC,0.15000000000000002,0.0,de,1
+Sturm Graz,Sturm Graz,LOC,0.0,0.0,de,1
+Mainz,Mainz,LOC,0.0,0.0,de,1
+Auswirkungen,Auswirkungen,LOC,0.0,0.0,de,1
+Sturmschäden,Sturmschäden,LOC,0.0,0.0,de,1
+"Herbstturmtief ""Joshua","Herbstturmtief ""Joshua",LOC,0.0,0.0,de,1
+Regenschauer,Regenschauer,LOC,0.0,0.0,de,1
+Anmarsch,Anmarsch,LOC,0.0,0.0,de,1
+Windböen,Windböen,LOC,0.0,0.0,de,1
+Orkan-Böen,Orkan-Böen,LOC,1.0,0.0,de,1
+München,München,LOC,1.0,0.0,de,1
+Küste,Küste,LOC,0.0,0.0,de,1
+Westeuropa,Westeuropa,LOC,-1.0,0.0,de,1
+Köln,Köln,LOC,1.0,0.0,de,1
+Haus,Haus,LOC,0.7,0.0,de,1
+Waldbesuchen,Waldbesuchen,LOC,-0.7,0.0,de,1
+Auto,Auto,LOC,0.7,0.0,de,1
+Wilhelmshaven,Wilhelmshaven,LOC,-1.0,0.0,de,1
+Melissa,Melissa,LOC,0.0,0.0,de,1
+Sturmtief,Sturmtief,LOC,-1.0,0.0,de,1
+Trümmer,Trümmer,LOC,0.0,0.0,de,1
+Überschwemmungen,Überschwemmungen,LOC,0.7,0.0,de,1
+Spaziergänger,Spaziergänger,LOC,0.0,0.0,de,1
+Sturm,Sturm,LOC,0.0,0.0,de,1
+Böen fegen,Böen fegen,LOC,0.0,0.0,de,1
+Äste,Äste,LOC,0.0,0.0,de,1
+Mallorca,Mallorca,LOC,0.0,0.0,de,1
 Offenbach,Offenbach,LOC,0.0,0.0,de,1
 Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,-1.0,0.0,de,1
-Herbststürme,Herbststürme,LOC,0.0,0.0,de,1
-Wetterdienst,Wetterdienst,LOC,0.0,0.0,de,1
-Ibizia,Ibizia,LOC,0.0,0.0,de,1
-Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1
-Raumschiffen,Raumschiffen,LOC,0.0,0.0,de,1
-Band-Geheimnis,Band-Geheimnis,LOC,0.0,0.0,de,1
+Norddeutschland,Norddeutschland,LOC,-0.7,0.0,de,1
+Orkanartige Böen,Orkanartige Böen,LOC,-0.7,0.0,de,1
+Ostsee,Ostsee,LOC,0.0,0.0,de,1
+Nord-,Nord-,LOC,0.0,0.0,de,1
+Orkantief,Orkantief,LOC,0.0,0.0,de,1
+Sachsen,Sachsen,LOC,0.0,0.0,de,1
+sn,sn,LOC,0.0,0.0,de,1
+Leipzig,Leipzig,LOC,0.0,0.0,de,1
+stürmisch,stürmisch,LOC,0.0,0.0,de,1
 North Carolina,North Carolina,LOC,0.0,0.0,de,1
 Tornado-Wellen,Tornado-Wellen,LOC,0.0,0.0,de,1
+Polizeiwache,Polizeiwache,LOC,0.0,0.0,de,1
+Hurrikans Humberto,Hurrikans Humberto,LOC,0.0,0.0,de,1
 Brasilien,Brasilien,LOC,0.0,0.0,de,1
+Hanoi,Hanoi,LOC,-0.7,0.0,de,1
 Taifun-Stärke,Taifun-Stärke,LOC,0.0,0.0,de,1
 Warnungen,Warnungen,LOC,0.0,0.0,de,1
 Sean OKelley,Sean OKelley,LOC,0.0,0.0,de,1
 Amsterdam,Amsterdam,LOC,0.0,0.0,de,1
 Kelly Family,Kelly Family,LOC,0.0,0.0,de,1
-Südostasien,Südostasien,LOC,0.0,0.0,de,1
-Sonnenwinden,Sonnenwinden,LOC,0.0,0.0,de,1
+Band-Geheimnis,Band-Geheimnis,LOC,0.0,0.0,de,1
 Bicol,Bicol,LOC,0.7,0.0,de,1
 Super-Taifun,Super-Taifun,LOC,0.0,0.0,de,1
 Essener,Essener,LOC,0.0,0.0,de,1
@@ -83,25 +133,36 @@ chinesische Küste,chinesische Küste,LOC,-0.7,0.0,de,1
 Sturm China,Sturm China,LOC,0.0,0.0,de,1
 aufgestauter See,aufgestauter See,LOC,0.0,0.0,de,1
 Tropensturm,Tropensturm,LOC,0.0,0.0,de,1
-stürmisch,stürmisch,LOC,0.0,0.0,de,1
-Leipzig,Leipzig,LOC,0.0,0.0,de,1
-sn,sn,LOC,0.0,0.0,de,1
-Sachsen,Sachsen,LOC,0.0,0.0,de,1
+Stuttgart,Stuttgart,LOC,-0.2333333333333333,0.6666666666666666,de,1
+lsw,lsw,LOC,-0.2333333333333333,0.6666666666666666,de,1
+Nordmeer,Nordmeer,LOC,-0.2333333333333333,0.6666666666666666,de,1
+Tornados,Tornados,LOC,-1.0,0.0,de,1
+Herbststürme,Herbststürme,LOC,0.0,0.0,de,1
+Wetterdienst,Wetterdienst,LOC,0.0,0.0,de,1
+Sturmböen…,Sturmböen…,LOC,0.0,0.0,de,1
+Flut,Flut,LOC,0.0,0.0,de,1
+Ermont…,Ermont…,LOC,0.0,0.0,de,1
+d…,d…,LOC,0.0,0.0,de,1
+Lebensgefahr,Lebensgefahr,LOC,0.0,0.0,de,1
+Murcia,Murcia,LOC,0.0,0.0,de,1
+Alicante,Alicante,LOC,0.0,0.0,de,1
+Valencia,Valencia,LOC,0.0,0.0,de,1
+Spaniens,Spaniens,LOC,0.0,0.0,de,1
+Tief Alice,Tief Alice,LOC,0.0,0.0,de,1
+Mittelmeer,Mittelmeer,LOC,0.0,0.0,de,1
+Ibizia,Ibizia,LOC,0.0,0.0,de,1
+Westpfalz,Westpfalz,LOC,0.0,0.0,de,1
+Raumschiffen,Raumschiffen,LOC,0.0,0.0,de,1
+Sonnenwinden,Sonnenwinden,LOC,0.0,0.0,de,1
 Raumschiffflotte,Raumschiffflotte,LOC,-1.0,0.0,de,1
 Plasma-Tornados,Plasma-Tornados,LOC,-1.0,0.0,de,1
-Erde,Erde,LOC,0.7,0.0,de,1
 Tibet,Tibet,LOC,0.0,0.0,de,1
 Lhasa,Lhasa,LOC,0.0,0.0,de,1
+Bergsteigerl…,Bergsteigerl…,LOC,-0.7,0.0,de,1
+Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1
 Brocken,Brocken,LOC,0.0,0.0,de,1
 Nebel,Nebel,LOC,0.0,0.0,de,1
-Landes,Landes,LOC,0.0,0.0,de,1
 Bayern,Bayern,LOC,0.0,0.0,de,1
 Nordseeinseln,Nordseeinseln,LOC,0.0,0.0,de,1
-Harz,Harz,LOC,0.0,0.0,de,1
 Südschwarzwald,Südschwarzwald,LOC,0.0,0.0,de,1
-Regen,Regen,LOC,-1.0,0.0,de,1
-Westpfalz,Westpfalz,LOC,0.0,0.0,de,1
-Nordmeer,Nordmeer,LOC,-0.2333333333333333,0.6666666666666666,de,1
-lsw,lsw,LOC,-0.2333333333333333,0.6666666666666666,de,1
-Stuttgart,Stuttgart,LOC,-0.2333333333333333,0.6666666666666666,de,1
-Äste,Äste,LOC,0.0,0.0,de,1
+Hurrikan-Katastrophe,Hurrikan-Katastrophe,LOC,0.0,1.0,de,1
