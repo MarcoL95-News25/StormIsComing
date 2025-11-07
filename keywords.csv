@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturm Tote',de,Impacts,#fc8505,#cf7c23,3,0.2351433797482318
+'Sturm Tote',de,Impacts,#fc8505,#cf7c23,3,0.22755091551326975
 'Sturm Bäume',de,Impacts,#fc8505,#cf7c23,3,0.200892780721938
 'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.1885747578124999
 'Orkan',de,Hazard,#fc0307,#c72426,1,0.1744171035405235
@@ -9,4 +9,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturm Erwärmung',de,Causes,#2326cf,#242573,1,0.1570632080438189
 'Tornado',de,Hazard,#fc0307,#c72426,2,0.058218802969836
 'Sturm Windstärke',de,Hazard,#fc0307,#c72426,1,0.0372931596047308
-'Sturm Klimawandel',de,Causes,#2326cf,#242573,2,0
+'Sturm Klimawandel',de,Causes,#2326cf,#242573,2,0.0
