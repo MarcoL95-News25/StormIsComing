@@ -1,85 +1,106 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,26
-“,“,MISC,,,de,15
+",MISC,,,de,36
+“,“,MISC,-2.0,0.0,de,18
 Super-Taifun,Super-Taifun,MISC,0.0,0.0,de,8
-Hurrikan,Hurrikan,MISC,-0.85,0.5,de,7
-Sturm der Liebe,Sturm der Liebe,MISC,,,de,6
+Hurrikan,Hurrikan,MISC,-0.5666666666666667,0.3333333333333333,de,7
+Hurrikan Melissa,Hurrikan Melissa,MISC,-0.95,1.0,de,6
 Bualoi“,Bualoi“,MISC,,,de,6
+Sturm der Liebe,Sturm der Liebe,MISC,,,de,6
 Gefährlicher Wirbelsturm,Gefährlicher Wirbelsturm,MISC,,,de,4
+Tornado,Tornado,MISC,,,de,4
+O…,O…,MISC,,,de,4
+Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,3
 französischen,französischen,MISC,,,de,3
-Hurrikan Melissa,Hurrikan Melissa,MISC,-0.44999999999999996,0.5,de,3
 Sturm und Regen,Sturm und Regen,MISC,,,de,3
-Tornado,Tornado,MISC,,,de,3
-spanische,spanische,MISC,,,de,2
-Sturm,Sturm,MISC,-1.0,0.0,de,2
-S…,S…,MISC,,,de,2
-Ryder Cup,Ryder Cup,MISC,,,de,2
-Wetter“,Wetter“,MISC,,,de,2
-ARD-Telenovela,ARD-Telenovela,MISC,,,de,2
+Sturm,Sturm,MISC,-0.16666666666666666,0.0,de,2
 Schönes Wetter,Schönes Wetter,MISC,,,de,2
+jamaikanische,jamaikanische,MISC,,,de,2
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,2
+stern,stern,MISC,,,de,2
+Taifun Kalmaegi,Taifun Kalmaegi,MISC,,,de,2
+ARD-Telenovela,ARD-Telenovela,MISC,,,de,2
+stern+statt,stern+statt,MISC,,,de,2
+stern+,stern+,MISC,,,de,2
+S…,S…,MISC,,,de,2
+Wetter“,Wetter“,MISC,,,de,2
+spanische,spanische,MISC,,,de,2
+Joshua“,Joshua“,MISC,,,de,2
+Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,2
+Ryder Cup,Ryder Cup,MISC,,,de,2
 RAW“,RAW“,MISC,,,de,2
 Zahl der Toten,Zahl der Toten,MISC,,,de,2
-stern,stern,MISC,,,de,2
 …,…,MISC,0.0,0.0,de,2
-Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,2
-stern+statt,stern+statt,MISC,,,de,1
+a… “,a… “,MISC,,,de,1
+Melissa,Melissa,MISC,0.0,1.0,de,1
 Me…,Me…,MISC,,,de,1
 Ausm…,Ausm…,MISC,,,de,1
-Joshua“,Joshua“,MISC,,,de,1
-Herbststurm“,Herbststurm“,MISC,,,de,1
 Woh…,Woh…,MISC,,,de,1
-jamaikanische,jamaikanische,MISC,,,de,1
-Regen“,Regen“,MISC,,,de,1
-Tages,Tages,MISC,,,de,1
-’s,’s,MISC,,,de,1
-Fernsehen“,Fernsehen“,MISC,,,de,1
-Versicheru…,Versicheru…,MISC,,,de,1
-Joshua,Joshua,MISC,,,de,1
-Das zerreißt mir das Herz,Das zerreißt mir das Herz,MISC,,,de,1
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,1
-Sturm der Liebe“,Sturm der Liebe“,MISC,,,de,1
-Das zerreißt mir das Herz“,Das zerreißt mir das Herz“,MISC,,,de,1
-Sturm spitzt,Sturm spitzt,MISC,,,de,1
-Europa League,Europa League,MISC,,,de,1
-schottischen,schottischen,MISC,,,de,1
-stern+,stern+,MISC,,,de,1
-Kräftiger Wind,Kräftiger Wind,MISC,,,de,1
-Die Sturm-Spieler,Die Sturm-Spieler,MISC,,,de,1
-Champions Leag…,Champions Leag…,MISC,,,de,1
-Das stürmische Wetter,Das stürmische Wetter,MISC,,,de,1
-Die Fakten im Überblick,Die Fakten im Überblick,MISC,,,de,1
-Deutscher,Deutscher,MISC,,,de,1
-europäischen Teams,europäischen Teams,MISC,,,de,1
-Tempo 200,Tempo 200,MISC,,,de,1
-Tote und Vermisste,Tote und Vermisste,MISC,,,de,1
 Show der falsche Ausdruck,Show der falsche Ausdruck,MISC,,,de,1
-a… “,a… “,MISC,,,de,1
+Tages,Tages,MISC,,,de,1
 wu…,wu…,MISC,,,de,1
+Klimawan…,Klimawan…,MISC,,,de,1
+’s,’s,MISC,,,de,1
+Das stürmische Wetter,Das stürmische Wetter,MISC,,,de,1
+Joshua,Joshua,MISC,,,de,1
+Freibur…,Freibur…,MISC,,,de,1
 Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1
 philippinischen,philippinischen,MISC,,,de,1
+Erwärmung der Erde,Erwärmung der Erde,MISC,,,de,1
+Der jüngste Sturm,Der jüngste Sturm,MISC,,,de,1
+Klimaforsche…,Klimaforsche…,MISC,,,de,1
+Versicheru…,Versicheru…,MISC,,,de,1
+e…,e…,MISC,,,de,1
+Chaos auf den Philippinen,Chaos auf den Philippinen,MISC,,,de,1
+Schwerer Taifun,Schwerer Taifun,MISC,,,de,1
+Fung-Wong“,Fung-Wong“,MISC,,,de,1
+Taifun,Taifun,MISC,0.0,0.0,de,1
+Tempo 200,Tempo 200,MISC,,,de,1
+Inselst…,Inselst…,MISC,,,de,1
+Tote und Vermisste,Tote und Vermisste,MISC,,,de,1
+Luftwaffe“,Luftwaffe“,MISC,,,de,1
+J…,J…,MISC,,,de,1
+KI Stürme,KI Stürme,MISC,,,de,1
+Hurrikan des Jahres,Hurrikan des Jahres,MISC,,,de,1
+NZZ QUANTENSPRUNG,NZZ QUANTENSPRUNG,MISC,,,de,1
+PODCAST,PODCAST,MISC,,,de,1
+Ze…,Ze…,MISC,,,de,1
 Orkan Daria,Orkan Daria,MISC,,,de,1
+Crown Jewel“,Crown Jewel“,MISC,,,de,1
+Champions Leag…,Champions Leag…,MISC,,,de,1
+Aufeinandertreff...,Aufeinandertreff...,MISC,,,de,1
+Mini-Tornado“,Mini-Tornado“,MISC,,,de,1
+Video,Video,MISC,,,de,1
+europäischen Teams,europäischen Teams,MISC,,,de,1
+Die Fakten im Überblick,Die Fakten im Überblick,MISC,,,de,1
+Alice“,Alice“,MISC,,,de,1
+Die kalte Herbstluft,Die kalte Herbstluft,MISC,,,de,1
+chinesischen,chinesischen,MISC,,,de,1
+Fährausfälle“,Fährausfälle“,MISC,,,de,1
+jed…,jed…,MISC,,,de,1
+Ungemütliches,Ungemütliches,MISC,,,de,1
+Sturm und Regen“,Sturm und Regen“,MISC,,,de,1
+Sturm statt goldene,Sturm statt goldene,MISC,,,de,1
+Tornados,Tornados,MISC,0.0,0.0,de,1
+N…,N…,MISC,,,de,1
+Imelda,Imelda,MISC,,,de,1
+Wirbelsturm üb...,Wirbelsturm üb...,MISC,,,de,1
+Deutscher,Deutscher,MISC,,,de,1
+Kräftiger Wind,Kräftiger Wind,MISC,,,de,1
+Fernsehen“,Fernsehen“,MISC,,,de,1
+schottischen,schottischen,MISC,,,de,1
+Europa League,Europa League,MISC,,,de,1
+Sturm spitzt,Sturm spitzt,MISC,,,de,1
+Das zerreißt mir das Herz“,Das zerreißt mir das Herz“,MISC,,,de,1
+Sturm der Liebe“,Sturm der Liebe“,MISC,,,de,1
 Over The Hump,Over The Hump,MISC,,,de,1
+Das zerreißt mir das Herz,Das zerreißt mir das Herz,MISC,,,de,1
+Der Tropensturm «Bualoi,Der Tropensturm «Bualoi,MISC,,,de,1
 An Angel,An Angel,MISC,,,de,1
+Regen“,Regen“,MISC,,,de,1
 Fa…,Fa…,MISC,,,de,1
+Herbststurm“,Herbststurm“,MISC,,,de,1
 Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1
 philippinische,philippinische,MISC,,,de,1
-Der Tropensturm «Bualoi,Der Tropensturm «Bualoi,MISC,,,de,1
-Die kalte Herbstluft,Die kalte Herbstluft,MISC,,,de,1
-Wirbelsturm üb...,Wirbelsturm üb...,MISC,,,de,1
-jed…,jed…,MISC,,,de,1
-Crown Jewel“,Crown Jewel“,MISC,,,de,1
-Aufeinandertreff...,Aufeinandertreff...,MISC,,,de,1
-Imelda,Imelda,MISC,,,de,1
-N…,N…,MISC,,,de,1
-Tornados,Tornados,MISC,0.0,0.0,de,1
-Sturm statt goldene,Sturm statt goldene,MISC,,,de,1
-Sturm und Regen“,Sturm und Regen“,MISC,,,de,1
-Ungemütliches,Ungemütliches,MISC,,,de,1
-Fährausfälle“,Fährausfälle“,MISC,,,de,1
-chinesischen,chinesischen,MISC,,,de,1
-Alice“,Alice“,MISC,,,de,1
-Video,Video,MISC,,,de,1
-Mini-Tornado“,Mini-Tornado“,MISC,,,de,1
-Ze…,Ze…,MISC,,,de,1
+Die Sturm-Spieler,Die Sturm-Spieler,MISC,,,de,1
