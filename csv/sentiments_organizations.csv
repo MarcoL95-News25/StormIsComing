@@ -1,65 +1,116 @@
-,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.2380952380952381,0.07142857142857142,de,14
-DWD,DWD,ORG,-0.09761904761904762,0.21428571428571427,de,7
-Bundeswehr,Bundeswehr,ORG,0.0,0.0,de,4
-Action!,Action!,ORG,0.0,0.0,de,4
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.1111111111111111,0.0,de,3
-ARD-Telenovela,ARD-Telenovela,ORG,-0.2333333333333333,0.0,de,3
-WWE,WWE,ORG,0.0,0.6666666666666666,de,3
-Nato,Nato,ORG,0.0,0.0,de,2
-Champion!,Champion!,ORG,0.0,0.0,de,2
-Reg…,Reg…,ORG,-0.425,0.0,de,2
-AEMET,AEMET,ORG,-0.27499999999999997,0.0,de,2
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.35,0.0,de,2
-GEO,GEO,ORG,1.0,0.0,de,2
-University of Michigan,University of Michigan,ORG,0.0,0.0,de,2
-Toyota Brasil,Toyota Brasil,ORG,-1.0,0.0,de,2
-Outer Banks,Outer Banks,ORG,0.0,0.0,de,2
-Giganten!,Giganten!,ORG,0.0,0.0,de,2
-EINE ZUTAT!,EINE ZUTAT!,ORG,0.11666666666666665,0.0,de,2
-Crown Jewel,Crown Jewel,ORG,0.0,0.5,de,2
-US-Behörden,US-Behörden,ORG,0.0,0.0,de,1
-Phi…,Phi…,ORG,0.0,0.0,de,1
-Rangers,Rangers,ORG,0.0,0.0,de,1
-Opf…,Opf…,ORG,0.0,0.0,de,1
-Rangers-Erzrivalen Celtic,Rangers-Erzrivalen Celtic,ORG,0.7,0.0,de,1
-…,…,ORG,0.0,0.0,de,1
-Celtic,Celtic,ORG,0.0,0.0,de,1
-lrs,lrs,ORG,0.0,0.0,de,1
-Um…,Um…,ORG,0.7,0.0,de,1
-HurrikanMelissa,HurrikanMelissa,ORG,1.0,0.0,de,1
-NYC,NYC,ORG,0.0,0.0,de,1
-zw…,zw…,ORG,0.15000000000000002,0.0,de,1
-Polizei,Polizei,ORG,0.0,0.0,de,1
-Luftwaffe,Luftwaffe,ORG,0.0,0.0,de,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.31960784313725493,0.058823529411764705,de,17,,,,,,
+DWD,DWD,ORG,-0.15256410256410258,0.19230769230769232,de,13,,,,,,
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.6333333333333333,0.1,de,10,,,,,,
+Bundeswehr,Bundeswehr,ORG,0.0,0.16666666666666666,de,6,,,,,,
+ASUS,ASUS,ORG,0.37,0.0,de,5,,,,,,
+ESA,ESA,ORG,0.0,0.0,de,4,,,,,,
+Action!,Action!,ORG,0.0,0.0,de,4,,,,,,
+ARD-Telenovela,ARD-Telenovela,ORG,-0.2333333333333333,0.0,de,3,,,,,,
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.10000000000000002,0.0,de,3,,,,,,
+WWE,WWE,ORG,0.0,0.6666666666666666,de,3,,,,,,
+Wischfunktion + Jigoo,Wischfunktion + Jigoo,ORG,0.0,0.0,de,2,,,,,,
+University of Michigan,University of Michigan,ORG,0.0,0.0,de,2,,,,,,
+Freien Universität,Freien Universität,ORG,0.35,0.0,de,2,,,,,,
+Union Berlin,Union Berlin,ORG,0.0,0.0,de,2,,,,,,
+Geekbuying.com,Geekbuying.com,ORG,0.0,0.0,de,2,,,,,,
+AEMET,AEMET,ORG,-0.27499999999999997,0.0,de,2,,,,,,
+Lockheed Martin,Lockheed Martin,ORG,0.0,0.5,de,2,,,,,,
+Royal Navy,Royal Navy,ORG,0.0,0.0,de,2,,,,,,
+Reg…,Reg…,ORG,-0.425,0.0,de,2,,,,,,
+D…,D…,ORG,0.0,0.0,de,2,,,,,,
+WMO,WMO,ORG,0.0,0.0,de,2,,,,,,
+GEO,GEO,ORG,1.0,0.0,de,2,,,,,,
+Microsoft,Microsoft,ORG,0.0,0.0,de,2,,,,,,
+Nato,Nato,ORG,0.0,0.0,de,2,,,,,,
+Crown Jewel,Crown Jewel,ORG,0.0,0.5,de,2,,,,,,
+Outer Banks,Outer Banks,ORG,0.0,0.0,de,2,,,,,,
+EINE ZUTAT!,EINE ZUTAT!,ORG,0.11666666666666665,0.0,de,2,,,,,,
+Giganten!,Giganten!,ORG,0.0,0.0,de,2,,,,,,
+Toyota Brasil,Toyota Brasil,ORG,-1.0,0.0,de,2,,,,,,
+Champion!,Champion!,ORG,0.0,0.0,de,2,,,,,,
+Phi…,Phi…,ORG,0.0,0.0,de,1,,,,,,
+Wind…,Wind…,ORG,-1.0,0.0,de,1,,,,,,
+zw…,zw…,ORG,0.15000000000000002,0.0,de,1,,,,,,
+https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1,,,,,,
+regiona…,regiona…,ORG,0.0,0.0,de,1,,,,,,
+Jamaikas Regierung,Jamaikas Regierung,ORG,-0.7,0.0,de,1,,,,,,
+NHC,NHC,ORG,-1.0,0.0,de,1,,,,,,
+Sonn…,Sonn…,ORG,0.0,0.0,de,1,,,,,,
+US-Hurrikanzentrums NHC,US-Hurrikanzentrums NHC,ORG,0.0,0.0,de,1,,,,,,
+Imperial…,Imperial…,ORG,0.0,0.0,de,1,,,,,,
+Ministerpr…,Ministerpr…,ORG,-0.6,0.0,de,1,,,,,,
+Fung…,Fung…,ORG,0.7,0.0,de,1,,,,,,
+Sonnta…,Sonnta…,ORG,0.0,0.0,de,1,,,,,,
+Rote Kreuz rech…,Rote Kreuz rech…,ORG,0.0,0.0,de,1,,,,,,
+Sup…,Sup…,ORG,0.0,0.0,de,1,,,,,,
+Weltorganisation für Meteorologie,Weltorganisation für Meteorologie,ORG,0.0,0.0,de,1,,,,,,
+HurrikanMelissa,HurrikanMelissa,ORG,1.0,0.0,de,1,,,,,,
+UN-Klimakonferenz,UN-Klimakonferenz,ORG,0.3333333333333333,0.0,de,1,,,,,,
 "Link
 ","Link
-",ORG,0.15000000000000002,0.0,de,1
-Imperial…,Imperial…,ORG,0.0,0.0,de,1
-mv,mv,ORG,0.0,0.0,de,1
-We…,We…,ORG,0.0,0.0,de,1
-NZZ,NZZ,ORG,0.0,0.0,de,1
-los!,los!,ORG,0.0,0.0,de,1
-Pagas…,Pagas…,ORG,0.0,0.0,de,1
-München,München,ORG,0.7,0.0,de,1
-Wet…,Wet…,ORG,0.0,0.0,de,1
-dpa,dpa,ORG,0.0,0.0,de,1
-Son…,Son…,ORG,0.0,0.0,de,1
-Team Europa,Team Europa,ORG,0.0,0.0,de,1
-USA,USA,ORG,0.0,0.0,de,1
-Black …,Black …,ORG,0.0,0.0,de,1
-Pe…,Pe…,ORG,0.0,0.0,de,1
-ZWIEBELN,ZWIEBELN,ORG,0.2333333333333333,0.0,de,1
-Bayleys,Bayleys,ORG,1.0,0.0,de,1
-BILD!,BILD!,ORG,1.0,0.0,de,1
-junge Welt,junge Welt,ORG,0.0,0.0,de,1
-Social Media,Social Media,ORG,0.0,0.0,de,1
-National Park Service,National Park Service,ORG,0.0,0.0,de,1
-hohen Welle,hohen Welle,ORG,0.0,0.0,de,1
-Einsatzk…,Einsatzk…,ORG,-0.5,0.0,de,1
-U…,U…,ORG,0.0,0.0,de,1
-Nato-Manöver,Nato-Manöver,ORG,0.0,0.0,de,1
-Kelly Family,Kelly Family,ORG,0.0,0.0,de,1
-deutsche L…,deutsche L…,ORG,0.0,0.0,de,1
-Deutsche…,Deutsche…,ORG,0.0,0.0,de,1
-Pot…,Pot…,ORG,0.7,0.0,de,1
+",ORG,0.15000000000000002,0.0,de,1,,,,,,
+Wolfsburg,Wolfsburg,ORG,1.0,0.0,de,1,,,,,,
+mv,mv,ORG,0.0,0.0,de,1,,,,,,
+we…,we…,ORG,0.0,0.0,de,1,,,,,,
+beri…,beri…,ORG,0.0,0.0,de,1,,,,,,
+Opf…,Opf…,ORG,0.0,0.0,de,1,,,,,,
+’s Steffen,’s Steffen,ORG,0.0,0.0,de,1,,,,,,
+…,…,ORG,0.0,0.0,de,1,,,,,,
+Militär,Militär,ORG,0.0,0.0,de,1,,,,,,
+Werder Bremen,Werder Bremen,ORG,1.0,0.0,de,1,,,,,,
+Um…,Um…,ORG,0.7,0.0,de,1,,,,,,
+US-Behörden,US-Behörden,ORG,0.0,0.0,de,1,,,,,,
+Autos…,Autos…,ORG,-0.5666666666666667,0.0,de,1,,,,,,
+NYC,NYC,ORG,0.0,0.0,de,1,,,,,,
+Polizei,Polizei,ORG,0.0,0.0,de,1,,,,,,
+Luftwaffe,Luftwaffe,ORG,0.0,0.0,de,1,,,,,,
+We…,We…,ORG,0.0,0.0,de,1,,,,,,
+NZZ,NZZ,ORG,0.0,0.0,de,1,,,,,,
+National Hurricane Centers,National Hurricane Centers,ORG,0.0,0.0,de,1,,,,,,
+Pot…,Pot…,ORG,0.7,0.0,de,1,,,,,,
+Karibikin…,Karibikin…,ORG,-0.7,0.0,de,1,,,,,,
+Pagas…,Pagas…,ORG,0.0,0.0,de,1,,,,,,
+Deutschland,Deutschland,ORG,0.0,0.0,de,1,,,,,,
+junge Welt,junge Welt,ORG,0.0,0.0,de,1,,,,,,
+Nato-Manöver,Nato-Manöver,ORG,0.0,0.0,de,1,,,,,,
+Leb…,Leb…,ORG,0.35,0.0,de,1,,,,,,
+Ozeane,Ozeane,ORG,0.0,0.0,de,1,,,,,,
+U…,U…,ORG,0.0,0.0,de,1,,,,,,
+Einsatzk…,Einsatzk…,ORG,-0.5,0.0,de,1,,,,,,
+hohen Welle,hohen Welle,ORG,0.0,0.0,de,1,,,,,,
+National Park Service,National Park Service,ORG,0.0,0.0,de,1,,,,,,
+Social Media,Social Media,ORG,0.0,0.0,de,1,,,,,,
+BILD!,BILD!,ORG,1.0,0.0,de,1,,,,,,
+is…,is…,ORG,0.0,0.0,de,1,,,,,,
+Bayleys,Bayleys,ORG,1.0,0.0,de,1,,,,,,
+ZWIEBELN,ZWIEBELN,ORG,0.2333333333333333,0.0,de,1,,,,,,
+Pe…,Pe…,ORG,0.0,0.0,de,1,,,,,,
+Black …,Black …,ORG,0.0,0.0,de,1,,,,,,
+USA,USA,ORG,0.0,0.0,de,1,,,,,,
+Team Europa,Team Europa,ORG,0.0,0.0,de,1,,,,,,
+Son…,Son…,ORG,0.0,0.0,de,1,,,,,,
+dpa,dpa,ORG,0.0,0.0,de,1,,,,,,
+deutsche L…,deutsche L…,ORG,0.0,0.0,de,1,,,,,,
+Hamas,Hamas,ORG,0.0,0.0,de,1,,,,,,
+me…,me…,ORG,0.0,0.0,de,1,,,,,,
+Kelly Family,Kelly Family,ORG,0.0,0.0,de,1,,,,,,
+lrs,lrs,ORG,0.0,0.0,de,1,,,,,,
+Celtic,Celtic,ORG,0.0,0.0,de,1,,,,,,
+Rangers-Erzrivalen Celtic,Rangers-Erzrivalen Celtic,ORG,0.7,0.0,de,1,,,,,,
+Rangers,Rangers,ORG,0.0,0.0,de,1,,,,,,
+los!,los!,ORG,0.0,0.0,de,1,,,,,,
+München,München,ORG,0.7,0.0,de,1,,,,,,
+Wet…,Wet…,ORG,0.0,0.0,de,1,,,,,,
+mögli…,mögli…,ORG,0.0,0.0,de,1,,,,,,
+Deutsche…,Deutsche…,ORG,0.0,0.0,de,1,,,,,,
+Internationalen Komitee vom Roten Kreuz,Internationalen Komitee vom Roten Kreuz,ORG,0.0,0.0,de,1,,,,,,
+F-35-Anschaffung,F-35-Anschaffung,ORG,0.35,0.0,de,1,,,,,,
+F-35-Flugzeuge,F-35-Flugzeuge,ORG,0.0,0.0,de,1,,,,,,
+ze…,ze…,ORG,-0.15000000000000002,0.0,de,1,,,,,,
+Deutsc…,Deutsc…,ORG,0.0,0.0,de,1,,,,,,
+Gutscheincodes NNNITA09232…,Gutscheincodes NNNITA09232…,ORG,0.0,0.0,de,1,,,,,,
+i…,i…,ORG,0.0,0.0,de,1,,,,,,
+Gutscheincodes NNNITA09232,Gutscheincodes NNNITA09232,ORG,0.0,0.0,de,1,,,,,,
+NARWAL,NARWAL,ORG,0.0,0.0,de,1,,,,,,
+Erdmagnetfeldes,Erdmagnetfeldes,ORG,0.0,0.0,de,1,,,,,,
