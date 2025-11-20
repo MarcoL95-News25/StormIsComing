@@ -1,196 +1,198 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,60,,,,,,
-“,“,MISC,-5.0,1.0,de,32,,,,,,
-Tornado,Tornado,MISC,,,de,29,,,,,,
-Hurrikan,Hurrikan,MISC,-0.4000000000000001,0.3333333333333333,de,17,,,,,,
-Hurrikan Melissa,Hurrikan Melissa,MISC,-4.6499999999999995,2.0,de,15,,,,,,
-Super-Taifun,Super-Taifun,MISC,0.0,0.0,de,9,,,,,,
-Schwerer Taifun,Schwerer Taifun,MISC,,,de,7,,,,,,
-Sturm der Liebe,Sturm der Liebe,MISC,,,de,6,,,,,,
-Bualoi“,Bualoi“,MISC,,,de,6,,,,,,
-Gefährlicher Wirbelsturm,Gefährlicher Wirbelsturm,MISC,,,de,5,,,,,,
-Wetter“,Wetter“,MISC,,,de,4,,,,,,
-Chaos auf den Philippinen,Chaos auf den Philippinen,MISC,,,de,4,,,,,,
-Fung-Wong“,Fung-Wong“,MISC,,,de,4,,,,,,
-O…,O…,MISC,,,de,4,,,,,,
-Sturm,Sturm,MISC,-0.2,0.0,de,4,,,,,,
-Sturm und Regen,Sturm und Regen,MISC,,,de,3,,,,,,
-französischen,französischen,MISC,,,de,3,,,,,,
-Kräftiger Wind,Kräftiger Wind,MISC,,,de,3,,,,,,
-Zahl der Toten,Zahl der Toten,MISC,,,de,3,,,,,,
-…,…,MISC,0.0,0.0,de,3,,,,,,
-Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,3,,,,,,
-Lotus Evija,Lotus Evija,MISC,,,de,3,,,,,,
-ARD-Telenovela,ARD-Telenovela,MISC,,,de,2,,,,,,
-jamaikanische,jamaikanische,MISC,,,de,2,,,,,,
-NARWAL Flow Saugroboter,NARWAL Flow Saugroboter,MISC,,,de,2,,,,,,
-Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,2,,,,,,
-Ally X,Ally X,MISC,,,de,2,,,,,,
-Vietnam,Vietnam,MISC,0.0,0.0,de,2,,,,,,
-F35,F35,MISC,,,de,2,,,,,,
-Tages,Tages,MISC,,,de,2,,,,,,
-Tempo 300,Tempo 300,MISC,,,de,2,,,,,,
-Superjachten,Superjachten,MISC,,,de,2,,,,,,
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,2,,,,,,
-Tornado in Brasilien,Tornado in Brasilien,MISC,,,de,2,,,,,,
-stern+,stern+,MISC,,,de,2,,,,,,
-Taifun Kalmaegi,Taifun Kalmaegi,MISC,,,de,2,,,,,,
-stern+statt,stern+statt,MISC,,,de,2,,,,,,
-stern,stern,MISC,,,de,2,,,,,,
-spanische,spanische,MISC,,,de,2,,,,,,
-Joshua“,Joshua“,MISC,,,de,2,,,,,,
-Außenwelt,Außenwelt,MISC,,,de,2,,,,,,
-Hamburger,Hamburger,MISC,,,de,2,,,,,,
-Herbststurm“,Herbststurm“,MISC,,,de,2,,,,,,
-J…,J…,MISC,,,de,2,,,,,,
-Schönes Wetter,Schönes Wetter,MISC,,,de,2,,,,,,
-GPS,GPS,MISC,,,de,2,,,,,,
-Ryder Cup,Ryder Cup,MISC,,,de,2,,,,,,
-Tornado in,Tornado in,MISC,,,de,2,,,,,,
-brasilianischen,brasilianischen,MISC,,,de,2,,,,,,
-philippinischen,philippinischen,MISC,,,de,2,,,,,,
-S…,S…,MISC,,,de,2,,,,,,
-Kalmaegi“,Kalmaegi“,MISC,,,de,2,,,,,,
-RAW“,RAW“,MISC,,,de,2,,,,,,
-Ze…,Ze…,MISC,,,de,1,,,,,,
-PODCAST,PODCAST,MISC,,,de,1,,,,,,
-NZZ QUANTENSPRUNG,NZZ QUANTENSPRUNG,MISC,,,de,1,,,,,,
-n…,n…,MISC,,,de,1,,,,,,
-Ein Supertaifun,Ein Supertaifun,MISC,,,de,1,,,,,,
-"Taifun ""Fung-wong","Taifun ""Fung-wong",MISC,,,de,1,,,,,,
-Hurrikan des Jahres,Hurrikan des Jahres,MISC,,,de,1,,,,,,
-KI Stürme,KI Stürme,MISC,,,de,1,,,,,,
-Hurrikan Melis…,Hurrikan Melis…,MISC,,,de,1,,,,,,
-"Todesopfer, i…","Todesopfer, i…",MISC,,,de,1,,,,,,
-Luftwaffe“,Luftwaffe“,MISC,,,de,1,,,,,,
-"Zwei Tote, Überflutungen","Zwei Tote, Überflutungen",MISC,,,de,1,,,,,,
-Ortes,Ortes,MISC,,,de,1,,,,,,
-Der jüngste Sturm,Der jüngste Sturm,MISC,,,de,1,,,,,,
-Klimaforsche…,Klimaforsche…,MISC,,,de,1,,,,,,
-"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",MISC,,,de,1,,,,,,
-Klimawan…,Klimawan…,MISC,,,de,1,,,,,,
-COP30,COP30,MISC,,,de,1,,,,,,
-ANDERE BLICK,ANDERE BLICK,MISC,,,de,1,,,,,,
-Erwärmung der Erde,Erwärmung der Erde,MISC,,,de,1,,,,,,
-Stromnetze,Stromnetze,MISC,,,de,1,,,,,,
-Melissa,Melissa,MISC,0.0,0.3333333333333333,de,1,,,,,,
-Hur…,Hur…,MISC,,,de,1,,,,,,
-kubanischen,kubanischen,MISC,,,de,1,,,,,,
-d…,d…,MISC,0.0,0.0,de,1,,,,,,
-Der extrem gefährliche Hurrikan Melissa,Der extrem gefährliche Hurrikan Melissa,MISC,,,de,1,,,,,,
-Life is Strange“,Life is Strange“,MISC,,,de,1,,,,,,
-Sturm“,Sturm“,MISC,,,de,1,,,,,,
-Extreme Event Solutions Group,Extreme Event Solutions Group,MISC,,,de,1,,,,,,
-Tropischer Wirbelsturm“,Tropischer Wirbelsturm“,MISC,,,de,1,,,,,,
-Taifun,Taifun,MISC,0.0,0.0,de,1,,,,,,
-Katastrophensch…,Katastrophensch…,MISC,,,de,1,,,,,,
-Katastrophens…,Katastrophens…,MISC,,,de,1,,,,,,
-Wirbelsturm“,Wirbelsturm“,MISC,,,de,1,,,,,,
-Krieg,Krieg,MISC,,,de,1,,,,,,
-08.11.2025,08.11.2025,MISC,,,de,1,,,,,,
-e…,e…,MISC,,,de,1,,,,,,
-Sturm reißt die Menschen ins Meer,Sturm reißt die Menschen ins Meer,MISC,,,de,1,,,,,,
-Todesopf…,Todesopf…,MISC,,,de,1,,,,,,
-Todesopfer in der Karibik,Todesopfer in der Karibik,MISC,,,de,1,,,,,,
-Drei Tote,Drei Tote,MISC,,,de,1,,,,,,
-kanarischen,kanarischen,MISC,,,de,1,,,,,,
-la…,la…,MISC,,,de,1,,,,,,
-Sechs Tote,Sechs Tote,MISC,,,de,1,,,,,,
-Ein gewaltiger Taifun,Ein gewaltiger Taifun,MISC,,,de,1,,,,,,
-BILD08.11.2025,BILD08.11.2025,MISC,,,de,1,,,,,,
-09.11.2025,09.11.2025,MISC,,,de,1,,,,,,
-Inselst…,Inselst…,MISC,,,de,1,,,,,,
-Sturm reißt auf Teneriffa,Sturm reißt auf Teneriffa,MISC,,,de,1,,,,,,
-spanischen,spanischen,MISC,,,de,1,,,,,,
-Bilder an der Wand,Bilder an der Wand,MISC,,,de,1,,,,,,
-ePaper,ePaper,MISC,,,de,1,,,,,,
-Fung Wong“,Fung Wong“,MISC,,,de,1,,,,,,
-Ein Bett,Ein Bett,MISC,,,de,1,,,,,,
-Windgeschwindi…,Windgeschwindi…,MISC,,,de,1,,,,,,
-Baum des Jahres,Baum des Jahres,MISC,,,de,1,,,,,,
-"TAG IN MÜNCHEN
-","TAG IN MÜNCHEN
-",MISC,,,de,1,,,,,,
-Potenz…,Potenz…,MISC,,,de,1,,,,,,
-Ein Konvoi mit Hilfsgütern,Ein Konvoi mit Hilfsgütern,MISC,,,de,1,,,,,,
-Todesopfer auf 188,Todesopfer auf 188,MISC,,,de,1,,,,,,
-Superjacht-Industrie,Superjacht-Industrie,MISC,,,de,1,,,,,,
-Me…,Me…,MISC,,,de,1,,,,,,
-Aufeinandertreff...,Aufeinandertreff...,MISC,,,de,1,,,,,,
-N…,N…,MISC,,,de,1,,,,,,
-Tornados,Tornados,MISC,0.0,0.0,de,1,,,,,,
-Sturm statt goldene,Sturm statt goldene,MISC,,,de,1,,,,,,
-Sturm und Regen“,Sturm und Regen“,MISC,,,de,1,,,,,,
-Ungemütliches,Ungemütliches,MISC,,,de,1,,,,,,
-Fährausfälle“,Fährausfälle“,MISC,,,de,1,,,,,,
-chinesischen,chinesischen,MISC,,,de,1,,,,,,
-Kurzsteckbrief von Steinkorallen,Kurzsteckbrief von Steinkorallen,MISC,,,de,1,,,,,,
-Längere Dürren,Längere Dürren,MISC,,,de,1,,,,,,
-Jahr entwede…,Jahr entwede…,MISC,,,de,1,,,,,,
-Alice“,Alice“,MISC,,,de,1,,,,,,
-islamistische,islamistische,MISC,,,de,1,,,,,,
-israelischen,israelischen,MISC,,,de,1,,,,,,
-Zeit,Zeit,MISC,,,de,1,,,,,,
-britischen,britischen,MISC,,,de,1,,,,,,
-Imelda,Imelda,MISC,,,de,1,,,,,,
-Crown Jewel“,Crown Jewel“,MISC,,,de,1,,,,,,
-Full Screen Experience“,Full Screen Experience“,MISC,,,de,1,,,,,,
-jed…,jed…,MISC,,,de,1,,,,,,
-Tempo 200,Tempo 200,MISC,,,de,1,,,,,,
-Tote und Vermisste,Tote und Vermisste,MISC,,,de,1,,,,,,
-Show der falsche Ausdruck,Show der falsche Ausdruck,MISC,,,de,1,,,,,,
-a… “,a… “,MISC,,,de,1,,,,,,
-wu…,wu…,MISC,,,de,1,,,,,,
-Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1,,,,,,
-Orkan Daria,Orkan Daria,MISC,,,de,1,,,,,,
-Over The Hump,Over The Hump,MISC,,,de,1,,,,,,
-An Angel,An Angel,MISC,,,de,1,,,,,,
-Fa…,Fa…,MISC,,,de,1,,,,,,
-Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1,,,,,,
-philippinische,philippinische,MISC,,,de,1,,,,,,
-Der Tropensturm «Bualoi,Der Tropensturm «Bualoi,MISC,,,de,1,,,,,,
-europäischen Teams,europäischen Teams,MISC,,,de,1,,,,,,
-Die kalte Herbstluft,Die kalte Herbstluft,MISC,,,de,1,,,,,,
-Die Fakten im Überblick,Die Fakten im Überblick,MISC,,,de,1,,,,,,
-AMD-Prozessor,AMD-Prozessor,MISC,,,de,1,,,,,,
-Ausm…,Ausm…,MISC,,,de,1,,,,,,
-Sturm spitzt,Sturm spitzt,MISC,,,de,1,,,,,,
-schottischen,schottischen,MISC,,,de,1,,,,,,
-Die Sturm-Spieler,Die Sturm-Spieler,MISC,,,de,1,,,,,,
-Champions Leag…,Champions Leag…,MISC,,,de,1,,,,,,
-Versicheru…,Versicheru…,MISC,,,de,1,,,,,,
-Freibur…,Freibur…,MISC,,,de,1,,,,,,
-Joshua,Joshua,MISC,,,de,1,,,,,,
-The party is over,The party is over,MISC,,,de,1,,,,,,
-Das stürmische Wetter,Das stürmische Wetter,MISC,,,de,1,,,,,,
-Hab' dich lieb!,Hab' dich lieb!,MISC,,,de,1,,,,,,
-’s,’s,MISC,,,de,1,,,,,,
-Ta…,Ta…,MISC,,,de,1,,,,,,
-Hurrikan vor Jamaika“,Hurrikan vor Jamaika“,MISC,,,de,1,,,,,,
-28.10.2025,28.10.2025,MISC,,,de,1,,,,,,
-Uh…,Uh…,MISC,,,de,1,,,,,,
-Woh…,Woh…,MISC,,,de,1,,,,,,
-Europa League,Europa League,MISC,,,de,1,,,,,,
-Das zerreißt mir das Herz“,Das zerreißt mir das Herz“,MISC,,,de,1,,,,,,
-Die neueste Xbox,Die neueste Xbox,MISC,,,de,1,,,,,,
-Sturm der Liebe“,Sturm der Liebe“,MISC,,,de,1,,,,,,
-amerikanische,amerikanische,MISC,,,de,1,,,,,,
-US-Typs,US-Typs,MISC,,,de,1,,,,,,
-Verteidigungsministerium k…,Verteidigungsministerium k…,MISC,,,de,1,,,,,,
-Die Bundeswehr,Die Bundeswehr,MISC,,,de,1,,,,,,
-Internet,Internet,MISC,,,de,1,,,,,,
-Statistisch ges,Statistisch ges,MISC,,,de,1,,,,,,
-Video,Video,MISC,,,de,1,,,,,,
-Mini-Tornado“,Mini-Tornado“,MISC,,,de,1,,,,,,
-französisch…,französisch…,MISC,,,de,1,,,,,,
-Wirbelsturm üb...,Wirbelsturm üb...,MISC,,,de,1,,,,,,
-Deutscher,Deutscher,MISC,,,de,1,,,,,,
-Tagen st…,Tagen st…,MISC,,,de,1,,,,,,
-Regen“,Regen“,MISC,,,de,1,,,,,,
-Das zerreißt mir das Herz,Das zerreißt mir das Herz,MISC,,,de,1,,,,,,
-Fernsehen“,Fernsehen“,MISC,,,de,1,,,,,,
+",MISC,,,de,50.49999999999999
+Tornado,Tornado,MISC,,,de,25.49999999999999
+“,“,MISC,-5.0,1.0,de,23.300000000000004
+Hurrikan,Hurrikan,MISC,-0.4000000000000001,0.3333333333333333,de,17.0
+Hurrikan Melissa,Hurrikan Melissa,MISC,-4.6499999999999995,2.0,de,11.399999999999999
+Super-Taifun,Super-Taifun,MISC,0.0,0.0,de,8.8
+Bualoi“,Bualoi“,MISC,,,de,6.0
+Gefährlicher Wirbelsturm,Gefährlicher Wirbelsturm,MISC,,,de,5.0
+O…,O…,MISC,,,de,4.0
+Fung-Wong“,Fung-Wong“,MISC,,,de,3.4000000000000004
+Wetter“,Wetter“,MISC,,,de,3.1
+französischen,französischen,MISC,,,de,3.0
+Sturm und Regen,Sturm und Regen,MISC,,,de,3.0
+Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,3.0
+Kräftiger Wind,Kräftiger Wind,MISC,,,de,3.0
+Sturm,Sturm,MISC,-0.21978021978021978,0.0,de,2.9000000000000004
+Schwerer Taifun,Schwerer Taifun,MISC,,,de,2.3000000000000003
+Zahl der Toten,Zahl der Toten,MISC,,,de,2.1
+Schönes Wetter,Schönes Wetter,MISC,,,de,2.0
+Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,2.0
+Chaos auf den Philippinen,Chaos auf den Philippinen,MISC,,,de,2.0
+J…,J…,MISC,,,de,2.0
+Taifun Kalmaegi,Taifun Kalmaegi,MISC,,,de,2.0
+jamaikanische,jamaikanische,MISC,,,de,2.0
+stern,stern,MISC,,,de,2.0
+Ryder Cup,Ryder Cup,MISC,,,de,2.0
+S…,S…,MISC,,,de,2.0
+spanische,spanische,MISC,,,de,2.0
+Joshua“,Joshua“,MISC,,,de,2.0
+Herbststurm“,Herbststurm“,MISC,,,de,2.0
+Tornado in Brasilien,Tornado in Brasilien,MISC,,,de,1.9
+Tornado in,Tornado in,MISC,,,de,1.9
+philippinischen,philippinischen,MISC,,,de,1.8
+Kalmaegi“,Kalmaegi“,MISC,,,de,1.8
+we…,we…,MISC,,,de,1.8
+Tages,Tages,MISC,,,de,1.1
+Außenwelt,Außenwelt,MISC,,,de,1.1
+Vietnam,Vietnam,MISC,0.0,0.0,de,1.1
+brasilianischen,brasilianischen,MISC,,,de,1.1
+…,…,MISC,0.0,0.0,de,1.1
+GPS,GPS,MISC,,,de,1.1
+KI Stürme,KI Stürme,MISC,,,de,1.0
+Der jüngste Sturm,Der jüngste Sturm,MISC,,,de,1.0
+Ze…,Ze…,MISC,,,de,1.0
+PODCAST,PODCAST,MISC,,,de,1.0
+NZZ QUANTENSPRUNG,NZZ QUANTENSPRUNG,MISC,,,de,1.0
+Hurrikan des Jahres,Hurrikan des Jahres,MISC,,,de,1.0
+Hurrikan Melis…,Hurrikan Melis…,MISC,,,de,1.0
+Klimawan…,Klimawan…,MISC,,,de,1.0
+"Todesopfer, i…","Todesopfer, i…",MISC,,,de,1.0
+Luftwaffe“,Luftwaffe“,MISC,,,de,1.0
+Sturm“,Sturm“,MISC,,,de,1.0
+"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",MISC,,,de,1.0
+COP30,COP30,MISC,,,de,1.0
+Extreme Event Solutions Group,Extreme Event Solutions Group,MISC,,,de,1.0
+Klimaforsche…,Klimaforsche…,MISC,,,de,1.0
+Drei Tote,Drei Tote,MISC,,,de,1.0
+"Taifun ""Fung-wong","Taifun ""Fung-wong",MISC,,,de,1.0
+Melissa,Melissa,MISC,0.0,0.3333333333333333,de,1.0
+Hur…,Hur…,MISC,,,de,1.0
+kubanischen,kubanischen,MISC,,,de,1.0
+Der extrem gefährliche Hurrikan Melissa,Der extrem gefährliche Hurrikan Melissa,MISC,,,de,1.0
+ANDERE BLICK,ANDERE BLICK,MISC,,,de,1.0
+Todesopfer in der Karibik,Todesopfer in der Karibik,MISC,,,de,1.0
+Me…,Me…,MISC,,,de,1.0
+Ausm…,Ausm…,MISC,,,de,1.0
+Stromnetze,Stromnetze,MISC,,,de,1.0
+d…,d…,MISC,0.0,0.0,de,1.0
+Life is Strange“,Life is Strange“,MISC,,,de,1.0
+Woh…,Woh…,MISC,,,de,1.0
 "Something went wrong
 Is your network connection unstable or browser outdated","Something went wrong
-Is your network connection unstable or browser outdated",MISC,,,de,1,,,,,,
+Is your network connection unstable or browser outdated",MISC,,,de,1.0
+Erwärmung der Erde,Erwärmung der Erde,MISC,,,de,1.0
+Ein Konvoi mit Hilfsgütern,Ein Konvoi mit Hilfsgütern,MISC,,,de,1.0
+kanarischen,kanarischen,MISC,,,de,1.0
+Katastrophensch…,Katastrophensch…,MISC,,,de,1.0
+28.10.2025,28.10.2025,MISC,,,de,1.0
+e…,e…,MISC,,,de,1.0
+Sturm reißt auf Teneriffa,Sturm reißt auf Teneriffa,MISC,,,de,1.0
+Wirbelsturm“,Wirbelsturm“,MISC,,,de,1.0
+09.11.2025,09.11.2025,MISC,,,de,1.0
+Katastrophens…,Katastrophens…,MISC,,,de,1.0
+BILD08.11.2025,BILD08.11.2025,MISC,,,de,1.0
+"Zwei Tote, Überflutungen","Zwei Tote, Überflutungen",MISC,,,de,1.0
+Sechs Tote,Sechs Tote,MISC,,,de,1.0
+Ortes,Ortes,MISC,,,de,1.0
+la…,la…,MISC,,,de,1.0
+Krieg,Krieg,MISC,,,de,1.0
+08.11.2025,08.11.2025,MISC,,,de,1.0
+Sturm reißt die Menschen ins Meer,Sturm reißt die Menschen ins Meer,MISC,,,de,1.0
+Todesopf…,Todesopf…,MISC,,,de,1.0
+Todesopfer auf 188,Todesopfer auf 188,MISC,,,de,1.0
+spanischen,spanischen,MISC,,,de,1.0
+ePaper,ePaper,MISC,,,de,1.0
+Fung Wong“,Fung Wong“,MISC,,,de,1.0
+Taifun,Taifun,MISC,0.0,0.0,de,1.0
+Windgeschwindi…,Windgeschwindi…,MISC,,,de,1.0
+Ein gewaltiger Taifun,Ein gewaltiger Taifun,MISC,,,de,1.0
+Inselst…,Inselst…,MISC,,,de,1.0
+Baum des Jahres,Baum des Jahres,MISC,,,de,1.0
+Potenz…,Potenz…,MISC,,,de,1.0
+Bilder an der Wand,Bilder an der Wand,MISC,,,de,1.0
+Ein Bett,Ein Bett,MISC,,,de,1.0
+Tropischer Wirbelsturm“,Tropischer Wirbelsturm“,MISC,,,de,1.0
+"TAG IN MÜNCHEN
+","TAG IN MÜNCHEN
+",MISC,,,de,1.0
+n…,n…,MISC,,,de,1.0
+Ein Supertaifun,Ein Supertaifun,MISC,,,de,1.0
+Uh…,Uh…,MISC,,,de,1.0
+Superjachten,Superjachten,MISC,,,de,1.0
+Hurrikan vor Jamaika“,Hurrikan vor Jamaika“,MISC,,,de,1.0
+Imelda,Imelda,MISC,,,de,1.0
+Tornados,Tornados,MISC,0.0,0.0,de,1.0
+Sturm statt goldene,Sturm statt goldene,MISC,,,de,1.0
+Sturm und Regen“,Sturm und Regen“,MISC,,,de,1.0
+Ungemütliches,Ungemütliches,MISC,,,de,1.0
+Fährausfälle“,Fährausfälle“,MISC,,,de,1.0
+chinesischen,chinesischen,MISC,,,de,1.0
+Kurzsteckbrief von Steinkorallen,Kurzsteckbrief von Steinkorallen,MISC,,,de,1.0
+Längere Dürren,Längere Dürren,MISC,,,de,1.0
+Jahr entwede…,Jahr entwede…,MISC,,,de,1.0
+Alice“,Alice“,MISC,,,de,1.0
+islamistische,islamistische,MISC,,,de,1.0
+israelischen,israelischen,MISC,,,de,1.0
+Zeit,Zeit,MISC,,,de,1.0
+britischen,britischen,MISC,,,de,1.0
+Die Fakten im Überblick,Die Fakten im Überblick,MISC,,,de,1.0
+NARWAL Flow Saugroboter,NARWAL Flow Saugroboter,MISC,,,de,1.0
+Full Screen Experience“,Full Screen Experience“,MISC,,,de,1.0
+N…,N…,MISC,,,de,1.0
+Aufeinandertreff...,Aufeinandertreff...,MISC,,,de,1.0
+AMD-Prozessor,AMD-Prozessor,MISC,,,de,1.0
+Crown Jewel“,Crown Jewel“,MISC,,,de,1.0
+Tempo 200,Tempo 200,MISC,,,de,1.0
+Tote und Vermisste,Tote und Vermisste,MISC,,,de,1.0
+Show der falsche Ausdruck,Show der falsche Ausdruck,MISC,,,de,1.0
+a… “,a… “,MISC,,,de,1.0
+wu…,wu…,MISC,,,de,1.0
+Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1.0
+Orkan Daria,Orkan Daria,MISC,,,de,1.0
+Over The Hump,Over The Hump,MISC,,,de,1.0
+An Angel,An Angel,MISC,,,de,1.0
+Fa…,Fa…,MISC,,,de,1.0
+Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1.0
+philippinische,philippinische,MISC,,,de,1.0
+Der Tropensturm «Bualoi,Der Tropensturm «Bualoi,MISC,,,de,1.0
+europäischen Teams,europäischen Teams,MISC,,,de,1.0
+Die kalte Herbstluft,Die kalte Herbstluft,MISC,,,de,1.0
+jed…,jed…,MISC,,,de,1.0
+RAW“,RAW“,MISC,,,de,1.0
+Ally X,Ally X,MISC,,,de,1.0
+Die neueste Xbox,Die neueste Xbox,MISC,,,de,1.0
+Hamburger,Hamburger,MISC,,,de,1.0
+Sturm spitzt,Sturm spitzt,MISC,,,de,1.0
+schottischen,schottischen,MISC,,,de,1.0
+Die Sturm-Spieler,Die Sturm-Spieler,MISC,,,de,1.0
+Champions Leag…,Champions Leag…,MISC,,,de,1.0
+Versicheru…,Versicheru…,MISC,,,de,1.0
+stern+statt,stern+statt,MISC,,,de,1.0
+stern+,stern+,MISC,,,de,1.0
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,1.0
+Freibur…,Freibur…,MISC,,,de,1.0
+Joshua,Joshua,MISC,,,de,1.0
+The party is over,The party is over,MISC,,,de,1.0
+Superjacht-Industrie,Superjacht-Industrie,MISC,,,de,1.0
+Das stürmische Wetter,Das stürmische Wetter,MISC,,,de,1.0
+Hab' dich lieb!,Hab' dich lieb!,MISC,,,de,1.0
+Lotus Evija,Lotus Evija,MISC,,,de,1.0
+Tempo 300,Tempo 300,MISC,,,de,1.0
+’s,’s,MISC,,,de,1.0
+Ta…,Ta…,MISC,,,de,1.0
+Europa League,Europa League,MISC,,,de,1.0
+Das zerreißt mir das Herz“,Das zerreißt mir das Herz“,MISC,,,de,1.0
+amerikanische,amerikanische,MISC,,,de,1.0
+Sturm der Liebe“,Sturm der Liebe“,MISC,,,de,1.0
+US-Typs,US-Typs,MISC,,,de,1.0
+F35,F35,MISC,,,de,1.0
+Verteidigungsministerium k…,Verteidigungsministerium k…,MISC,,,de,1.0
+Die Bundeswehr,Die Bundeswehr,MISC,,,de,1.0
+Internet,Internet,MISC,,,de,1.0
+Statistisch ges,Statistisch ges,MISC,,,de,1.0
+Video,Video,MISC,,,de,1.0
+Mini-Tornado“,Mini-Tornado“,MISC,,,de,1.0
+französisch…,französisch…,MISC,,,de,1.0
+Wirbelsturm üb...,Wirbelsturm üb...,MISC,,,de,1.0
+Deutscher,Deutscher,MISC,,,de,1.0
+Tagen st…,Tagen st…,MISC,,,de,1.0
+Regen“,Regen“,MISC,,,de,1.0
+Sturm der Liebe,Sturm der Liebe,MISC,,,de,1.0
+Fernsehen“,Fernsehen“,MISC,,,de,1.0
+ARD-Telenovela,ARD-Telenovela,MISC,,,de,1.0
+Das zerreißt mir das Herz,Das zerreißt mir das Herz,MISC,,,de,1.0
+Alarm an der US-Westküste,Alarm an der US-Westküste,MISC,,,de,1.0
