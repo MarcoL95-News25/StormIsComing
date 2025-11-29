@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturm Vorhersage',de,Mitigation,#48a82d,#3fd914,2,0.0706394064192361
 'Sturm Erwärmung',de,Causes,#2326cf,#242573,1,0.0686793216457043
 'Sturmtag',de,Hazard,#ec0827,#c72426,1,0.0637082332642219
-'Orkan',de,Hazard,#fc0307,#c72426,1,0.0572613999497583
+'Orkan',de,Hazard,#fc0307,#c72426,1,0.04957227995729455
 'Sturm Windstärke',de,Hazard,#fc0307,#c72426,1,0.0299971130644179
 'Sturm Klimawandel',de,Causes,#2326cf,#242573,3,0.0294927200834089
-'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.026823204902777863
+'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.0268232049027778
 'Warnsystem Tornado',de,Mitigation,#48a82d,#3fd914,1,0.0268232049027778
