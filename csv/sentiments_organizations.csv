@@ -1,70 +1,78 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.31960784313725493,0.058823529411764705,de,17.0
-DWD,DWD,ORG,-0.16391184573002757,0.2066115702479339,de,12.1
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.6333333333333333,0.1,de,10.0
+DWD,DWD,ORG,-0.030224525043177904,0.1813471502590674,de,19.299999999999997
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.2890070921985816,0.053191489361702135,de,18.799999999999997
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.3627450980392156,0.07352941176470587,de,13.600000000000001
+WWE,WWE,ORG,0.1891891891891892,0.5405405405405406,de,3.6999999999999997
+Bundeswehr,Bundeswehr,ORG,0.25,0.35714285714285715,de,2.8
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.14285714285714288,0.0,de,2.1
-WMO,WMO,ORG,0.0,0.0,de,2.0
+Outer Banks,Outer Banks,ORG,0.0,0.0,de,2.0
+AEMET,AEMET,ORG,-0.27499999999999997,0.0,de,2.0
 Toyota Brasil,Toyota Brasil,ORG,-1.0,0.0,de,2.0
 Reg…,Reg…,ORG,-0.425,0.0,de,2.0
-AEMET,AEMET,ORG,-0.27499999999999997,0.0,de,2.0
-Outer Banks,Outer Banks,ORG,0.0,0.0,de,2.0
+WMO,WMO,ORG,0.0,0.0,de,2.0
 https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1.9
-D…,D…,ORG,0.0,0.0,de,1.8
+Deutsche Wetterdienst für Hessen,Deutsche Wetterdienst für Hessen,ORG,-0.3684210526315789,0.0,de,1.9
+Weggeklatscht!,Weggeklatscht!,ORG,0.0,0.0,de,1.9
 US-Medien,US-Medien,ORG,-0.7777777777777777,0.0,de,1.8
-Union Berlin,Union Berlin,ORG,0.0,0.0,de,1.0
-lrs,lrs,ORG,0.0,0.0,de,1.0
+D…,D…,ORG,0.0,0.0,de,1.8
+Rote Kreuz rech…,Rote Kreuz rech…,ORG,0.0,0.0,de,1.0
+zw…,zw…,ORG,0.15000000000000002,0.0,de,1.0
+Polizei,Polizei,ORG,0.0,0.0,de,1.0
+Luftwaffe,Luftwaffe,ORG,0.0,0.0,de,1.0
+We…,We…,ORG,0.0,0.0,de,1.0
+NZZ,NZZ,ORG,0.0,0.0,de,1.0
+Deutschland,Deutschland,ORG,0.0,0.0,de,1.0
+National Hurricane Centers,National Hurricane Centers,ORG,0.0,0.0,de,1.0
+mv,mv,ORG,0.0,0.0,de,1.0
 Imperial…,Imperial…,ORG,0.0,0.0,de,1.0
 "Link
 ","Link
 ",ORG,0.15000000000000002,0.0,de,1.0
-zw…,zw…,ORG,0.15000000000000002,0.0,de,1.0
+Union Berlin,Union Berlin,ORG,0.0,0.0,de,1.0
 Jamaikas Regierung,Jamaikas Regierung,ORG,-0.7,0.0,de,1.0
-NHC,NHC,ORG,-1.0,0.0,de,1.0
-Wind…,Wind…,ORG,-1.0,0.0,de,1.0
-Rangers-Erzrivalen Celtic,Rangers-Erzrivalen Celtic,ORG,0.7,0.0,de,1.0
-Celtic,Celtic,ORG,0.0,0.0,de,1.0
-US-Hurrikanzentrums NHC,US-Hurrikanzentrums NHC,ORG,0.0,0.0,de,1.0
 Karibikin…,Karibikin…,ORG,-0.7,0.0,de,1.0
-Ministerpr…,Ministerpr…,ORG,-0.6,0.0,de,1.0
-GEO,GEO,ORG,2.0,0.0,de,1.0
-me…,me…,ORG,0.0,0.0,de,1.0
-Rote Kreuz rech…,Rote Kreuz rech…,ORG,0.0,0.0,de,1.0
-Deutschland,Deutschland,ORG,0.0,0.0,de,1.0
-National Hurricane Centers,National Hurricane Centers,ORG,0.0,0.0,de,1.0
-Weltorganisation für Meteorologie,Weltorganisation für Meteorologie,ORG,0.0,0.0,de,1.0
+NHC,NHC,ORG,-1.0,0.0,de,1.0
 HurrikanMelissa,HurrikanMelissa,ORG,1.0,0.0,de,1.0
-mv,mv,ORG,0.0,0.0,de,1.0
-Polizei,Polizei,ORG,0.0,0.0,de,1.0
-NZZ,NZZ,ORG,0.0,0.0,de,1.0
-’s Steffen,’s Steffen,ORG,0.0,0.0,de,1.0
+Wind…,Wind…,ORG,-1.0,0.0,de,1.0
+US-Behörden,US-Behörden,ORG,0.0,0.0,de,1.0
+US-Hurrikanzentrums NHC,US-Hurrikanzentrums NHC,ORG,0.0,0.0,de,1.0
+Weltorganisation für Meteorologie,Weltorganisation für Meteorologie,ORG,0.0,0.0,de,1.0
+Ministerpr…,Ministerpr…,ORG,-0.6,0.0,de,1.0
+NYC,NYC,ORG,0.0,0.0,de,1.0
+Opf…,Opf…,ORG,0.0,0.0,de,1.0
+we…,we…,ORG,0.0,0.0,de,1.0
+Fung…,Fung…,ORG,0.7,0.0,de,1.0
+Landkre…,Landkre…,ORG,0.0,0.0,de,1.0
+Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.7,0.0,de,1.0
+Verdachts…,Verdachts…,ORG,0.0,0.0,de,1.0
+Anadolu,Anadolu,ORG,0.0,0.0,de,1.0
+picture alliance,picture alliance,ORG,0.0,0.0,de,1.0
 Erdmagnetfeldes,Erdmagnetfeldes,ORG,0.0,0.0,de,1.0
+Com…,Com…,ORG,0.7,0.0,de,1.0
 Taiwan …,Taiwan …,ORG,-0.7,0.0,de,1.0
 UN-Klimakonferenz,UN-Klimakonferenz,ORG,0.3333333333333333,0.0,de,1.0
 Sup…,Sup…,ORG,0.0,0.0,de,1.0
 Sonnta…,Sonnta…,ORG,0.0,0.0,de,1.0
-Fung…,Fung…,ORG,0.7,0.0,de,1.0
 Sonn…,Sonn…,ORG,0.0,0.0,de,1.0
+Um…,Um…,ORG,0.7,0.0,de,1.0
 regiona…,regiona…,ORG,0.0,0.0,de,1.0
 Autos…,Autos…,ORG,-0.5666666666666667,0.0,de,1.0
 Wolfsburg,Wolfsburg,ORG,1.0,0.0,de,1.0
 Werder Bremen,Werder Bremen,ORG,1.0,0.0,de,1.0
+’s Steffen,’s Steffen,ORG,0.0,0.0,de,1.0
 Pot…,Pot…,ORG,0.7,0.0,de,1.0
-We…,We…,ORG,0.0,0.0,de,1.0
 Phi…,Phi…,ORG,0.0,0.0,de,1.0
 beri…,beri…,ORG,0.0,0.0,de,1.0
-Opf…,Opf…,ORG,0.0,0.0,de,1.0
+GEO,GEO,ORG,2.0,0.0,de,1.0
 …,…,ORG,0.0,0.0,de,1.0
 Militär,Militär,ORG,0.0,0.0,de,1.0
-Um…,Um…,ORG,0.7,0.0,de,1.0
-we…,we…,ORG,0.0,0.0,de,1.0
-US-Behörden,US-Behörden,ORG,0.0,0.0,de,1.0
-NYC,NYC,ORG,0.0,0.0,de,1.0
-los!,los!,ORG,0.0,0.0,de,1.0
-Luftwaffe,Luftwaffe,ORG,0.0,0.0,de,1.0
-Rangers,Rangers,ORG,0.0,0.0,de,1.0
+me…,me…,ORG,0.0,0.0,de,1.0
 Pagas…,Pagas…,ORG,0.0,0.0,de,1.0
-ARD-Telenovela,ARD-Telenovela,ORG,-0.7,0.0,de,1.0
+lrs,lrs,ORG,0.0,0.0,de,1.0
+Celtic,Celtic,ORG,0.0,0.0,de,1.0
+Nato-Manöver,Nato-Manöver,ORG,0.0,0.0,de,1.0
 Leb…,Leb…,ORG,0.35,0.0,de,1.0
+Ozeane,Ozeane,ORG,0.0,0.0,de,1.0
 Freien Universität,Freien Universität,ORG,0.7,0.0,de,1.0
 University of Michigan,University of Michigan,ORG,0.0,0.0,de,1.0
 U…,U…,ORG,0.0,0.0,de,1.0
@@ -76,7 +84,6 @@ junge Welt,junge Welt,ORG,0.0,0.0,de,1.0
 Champion!,Champion!,ORG,0.0,0.0,de,1.0
 Giganten!,Giganten!,ORG,0.0,0.0,de,1.0
 Crown Jewel,Crown Jewel,ORG,0.0,1.0,de,1.0
-WWE,WWE,ORG,0.0,2.0,de,1.0
 Action!,Action!,ORG,0.0,0.0,de,1.0
 BILD!,BILD!,ORG,1.0,0.0,de,1.0
 Bayleys,Bayleys,ORG,1.0,0.0,de,1.0
@@ -88,18 +95,23 @@ USA,USA,ORG,0.0,0.0,de,1.0
 Team Europa,Team Europa,ORG,0.0,0.0,de,1.0
 Son…,Son…,ORG,0.0,0.0,de,1.0
 dpa,dpa,ORG,0.0,0.0,de,1.0
-Ozeane,Ozeane,ORG,0.0,0.0,de,1.0
-Bundeswehr,Bundeswehr,ORG,0.0,1.0,de,1.0
-München,München,ORG,0.7,0.0,de,1.0
-Nato-Manöver,Nato-Manöver,ORG,0.0,0.0,de,1.0
-Wet…,Wet…,ORG,0.0,0.0,de,1.0
+Nato,Nato,ORG,0.0,0.0,de,1.0
+deutsche L…,deutsche L…,ORG,0.0,0.0,de,1.0
+is…,is…,ORG,0.0,0.0,de,1.0
+F-35-Flugzeuge,F-35-Flugzeuge,ORG,0.0,0.0,de,1.0
+Rangers-Erzrivalen Celtic,Rangers-Erzrivalen Celtic,ORG,0.7,0.0,de,1.0
+Rangers,Rangers,ORG,0.0,0.0,de,1.0
+los!,los!,ORG,0.0,0.0,de,1.0
 Kelly Family,Kelly Family,ORG,0.0,0.0,de,1.0
+München,München,ORG,0.7,0.0,de,1.0
+Wet…,Wet…,ORG,0.0,0.0,de,1.0
+mögli…,mögli…,ORG,0.0,0.0,de,1.0
 Deutsche…,Deutsche…,ORG,0.0,0.0,de,1.0
 Royal Navy,Royal Navy,ORG,0.0,0.0,de,1.0
 Lockheed Martin,Lockheed Martin,ORG,0.0,1.0,de,1.0
 F-35-Anschaffung,F-35-Anschaffung,ORG,0.35,0.0,de,1.0
-F-35-Flugzeuge,F-35-Flugzeuge,ORG,0.0,0.0,de,1.0
 ze…,ze…,ORG,-0.15000000000000002,0.0,de,1.0
+Hamas,Hamas,ORG,0.0,0.0,de,1.0
 Deutsc…,Deutsc…,ORG,0.0,0.0,de,1.0
 ESA,ESA,ORG,0.0,0.0,de,1.0
 Microsoft,Microsoft,ORG,0.0,0.0,de,1.0
@@ -111,8 +123,4 @@ Wischfunktion + Jigoo,Wischfunktion + Jigoo,ORG,0.0,0.0,de,1.0
 Geekbuying.com,Geekbuying.com,ORG,0.0,0.0,de,1.0
 NARWAL,NARWAL,ORG,0.0,0.0,de,1.0
 Internationalen Komitee vom Roten Kreuz,Internationalen Komitee vom Roten Kreuz,ORG,0.0,0.0,de,1.0
-Hamas,Hamas,ORG,0.0,0.0,de,1.0
-is…,is…,ORG,0.0,0.0,de,1.0
-deutsche L…,deutsche L…,ORG,0.0,0.0,de,1.0
-Nato,Nato,ORG,0.0,0.0,de,1.0
-mögli…,mögli…,ORG,0.0,0.0,de,1.0
+ARD-Telenovela,ARD-Telenovela,ORG,-0.7,0.0,de,1.0
