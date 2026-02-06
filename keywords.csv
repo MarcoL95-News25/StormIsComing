@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Orkan',de,Hazard,#fc0307,#c72426,2,0.1760150675896269
-'Sturm Tote',de,Impacts,#fc8505,#cf7c23,3,0.09920159817330229
+'Sturm Tote',de,Impacts,#fc8505,#cf7c23,3,0.0992015981733022
 'Sturm Bäume',de,Impacts,#fc8505,#cf7c23,3,0.0716818088078522
-'Sturm Vorhersage',de,Mitigation,#48a82d,#3fd914,2,0.0627396006609111
+'Sturm Vorhersage',de,Mitigation,#48a82d,#3fd914,2,0.07055204783450171
 'Sturm Windstärke',de,Hazard,#fc0307,#c72426,1,0.0322532126528115
 'Tornado',de,Hazard,#fc0307,#c72426,1,0.0290384781361889
 'Sturm Klimawandel',de,Causes,#2326cf,#242573,1,0.0284897318932664
