@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Orkan',de,Hazard,#fc0307,#c72426,2,0.1760150675896269
-'Sturm Tote',de,Impacts,#fc8505,#cf7c23,3,0.1001816493563977
+'Sturm Tote',de,Impacts,#fc8505,#cf7c23,3,0.0973783292256653
 'Sturm Bäume',de,Impacts,#fc8505,#cf7c23,3,0.0716818088078522
 'Sturm Vorhersage',de,Mitigation,#48a82d,#3fd914,2,0.0705520478345017
 'Sturm Windstärke',de,Hazard,#fc0307,#c72426,1,0.0322532126528115
