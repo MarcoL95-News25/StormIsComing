@@ -7,6 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tornado',de,Hazard,#fc0307,#c72426,2,0.0241460531258839
 'Sturm Windstärke',de,Hazard,#fc0307,#c72426,1,0.0179159615348465
 'Sturm Erwärmung',de,Causes,#2326cf,#242573,1,0.0155944620085902
-'Sturmtag',de,Hazard,#ec0827,#c72426,1,0.0022915417347066
+'Sturmtag',de,Hazard,#ec0827,#c72426,1,0.0023978554745006098
 'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.0001497299786639
 'Warnsystem Tornado',de,Mitigation,#48a82d,#3fd914,1,0.0001256999820776
