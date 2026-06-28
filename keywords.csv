@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturm Klimawandel',de,Causes,#2326cf,#242573,1,0.0164557762560795
 'Sturm Windstärke',de,Hazard,#fc0307,#c72426,1,0.0096811463220781
 'Sturm Erwärmung',de,Causes,#2326cf,#242573,1,0.006722370344546
-'Downburst',de,Hazard,#fc0327,#c72446,1,0.0019466671376251
-'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.000277436728434065
+'Downburst',de,Hazard,#fc0327,#c72446,1,0.0016546670669813348
+'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.000277436728434
 'Sturmtag',de,Hazard,#ec0827,#c72426,1,2.61194652579484e-05
 'Warnsystem Tornado',de,Mitigation,#48a82d,#3fd914,1,5.890603136950636e-07
