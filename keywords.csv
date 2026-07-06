@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tornado Erwärmung',de,Causes,#2326cf,#242573,2,0.13535046303629356
 'Tornado',de,Hazard,#fc0307,#c72426,3,0.1247230163466697
+'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.11504790858084948
 'Sturm Vorhersage',de,Mitigation,#48a82d,#3fd914,1,0.0773462548163496
 'Sturm Bäume',de,Impacts,#fc8505,#cf7c23,3,0.04644957537755
 'Sturm Klimawandel',de,Causes,#2326cf,#242573,2,0.0364115447086537
