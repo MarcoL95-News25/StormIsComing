@@ -10,4 +10,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturm Windstärke',de,Hazard,#fc0307,#c72426,1,0.0052446403347585
 'Downburst',de,Hazard,#fc0327,#c72446,1,8.8766947566745e-05
 'Sturmtag',de,Hazard,#ec0827,#c72426,1,3.7152786337477807e-06
-'Warnsystem Tornado',de,Mitigation,#48a82d,#3fd914,1,6.05375337722008e-08
+'Warnsystem Tornado',de,Mitigation,#48a82d,#3fd914,1,5.145690370637068e-08
