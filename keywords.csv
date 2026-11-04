@@ -9,5 +9,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturm Erwärmung',de,Causes,#2326cf,#242573,1,0.0019012737613504
 'Downburst',de,Hazard,#fc0327,#c72446,1,0.0013361998855707
 'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.000860188248533
-'Sturmtag',de,Hazard,#ec0827,#c72426,1,2.4097838369519162e-08
-'Warnsystem Tornado',de,Mitigation,#48a82d,#3fd914,1,7.3193203999809745e-09
+'Sturmtag',de,Hazard,#ec0827,#c72426,1,2.0483162614091287e-08
+'Warnsystem Tornado',de,Mitigation,#48a82d,#3fd914,1,7.319320399980974e-09
