@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturm Tote',de,Impacts,#fc8505,#cf7c23,1,0.0249314195429694
 'Sturm Vorhersage',de,Mitigation,#48a82d,#3fd914,1,0.0122341355430655
 'Sturm Windstärke',de,Hazard,#fc0307,#c72426,1,0.0049962573299176
-'Sturm Erwärmung',de,Causes,#2326cf,#242573,1,0.0017660976971478
+'Sturm Erwärmung',de,Causes,#2326cf,#242573,1,0.00180121304257563
 'Downburst',de,Hazard,#fc0327,#c72446,1,0.0013361998855707
 'Tornado Erwärmung',de,Causes,#2326cf,#242573,1,0.0004490236419106
 'Sturmtag',de,Hazard,#ec0827,#c72426,1,1.7410688221977593e-08
